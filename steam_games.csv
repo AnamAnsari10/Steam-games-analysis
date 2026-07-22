@@ -1,0 +1,1209 @@
+appid,name,release_date,developer,publisher,primary_genre,is_indie,price_usd,positive_ratings,negative_ratings,total_ratings,average_playtime_min,median_playtime_min,platforms
+100000,Ashen Wanderer,2022-03-03,Devolver Digital,Devolver Digital,Simulation,False,34.77,28679,21394,50073,2739,1132,windows
+100001,Ashen Frontier,2024-10-19,Private Division,Square Enix,Strategy,False,23.35,260,43,303,4523,1650,windows
+100002,Ashen Protocol,2023-06-23,Devolver Digital,Focus Entertainment,Simulation,False,19.42,983,274,1257,2415,1278,windows
+100003,Iron Chronicles,2021-02-16,Raw Fury,Ubisoft,Adventure,False,17.08,135,42,177,759,334,windows;mac
+100004,Silent Requiem,2015-05-01,Paradox Interactive,Indie Collective,RPG,False,27.28,1314,534,1848,3199,1967,windows
+100005,Rogue Frontier,2025-02-08,Square Enix,Annapurna Interactive,Casual,False,9.5,843,686,1529,340,132,windows;mac;linux
+100006,Shadow Uprising,2013-10-12,Paradox Interactive,Ubisoft,RPG,False,23.14,4574,448,5022,2489,1482,windows;linux
+100007,Iron Horizon,2024-06-05,Ubisoft,Devolver Digital,Action,False,21.17,2678,844,3522,1602,924,windows;mac
+100008,Crimson Horizon,2024-12-07,Annapurna Interactive,Paradox Interactive,Strategy,False,21.99,2486,1001,3487,3000,2304,windows
+100009,Void Odyssey,2024-06-04,Valve,Annapurna Interactive,Casual,False,9.12,25057,13031,38088,173,62,windows
+100010,Iron Citadel,2023-04-28,Shadow Uprising Studio,Paradox Interactive,Casual,True,3.5,106,29,135,267,157,windows;mac
+100011,Ashen Citadel,2018-02-14,Raw Fury,Paradox Interactive,Action,False,34.72,4091,1514,5605,1785,1397,windows;linux
+100012,Lost Colony,2023-10-08,Rusty Reckoning Studio,Focus Entertainment,Simulation,True,7.97,736,1361,2097,2926,1831,windows
+100013,Ashen Wanderer,2015-09-06,Crimson Odyssey 7 Studio,Square Enix,Action,True,8.86,77,13,90,1673,548,windows;mac
+100014,Lost Colony,2011-05-14,Annapurna Interactive,Annapurna Interactive,Adventure,False,13.57,1154,105,1259,1372,479,windows;linux
+100015,Silent Uprising,2014-10-16,EA,Focus Entertainment,Simulation,False,29.06,3011,609,3620,4304,2082,windows
+100016,Dark Colony,2024-05-24,Shadow Protocol Studio,Focus Entertainment,Indie,True,4.48,273,75,348,664,443,windows
+100017,Ashen Frontier,2014-08-27,Crimson Odyssey Studio,Valve,Strategy,True,13.57,803,74,877,2767,1682,windows
+100018,Eternal Odyssey,2024-07-24,Annapurna Interactive,EA,Simulation,False,14.03,12162,4530,16692,2808,1222,windows
+100019,Ashen Chronicles,2022-03-16,EA,Square Enix,Sports,False,54.49,1519,484,2003,1349,486,windows;mac
+100020,Shadow Uprising,2019-01-01,Frozen Legacy Studio,Raw Fury,Simulation,True,11.88,353,143,496,1992,1245,windows
+100021,Broken Protocol,2010-02-01,Annapurna Interactive,Annapurna Interactive,Action,False,19.9,375456,124544,500000,1791,1162,windows
+100022,Broken Protocol,2023-06-05,Private Division,Indie Collective,Adventure,False,17.29,1095,8691,9786,428,338,windows;mac;linux
+100023,Broken Descent,2021-08-16,Indie Collective,EA,Action,False,34.23,139,148,287,1474,666,windows;mac
+100024,Rogue Descent,2021-08-09,Rogue Protocol Studio,Annapurna Interactive,Indie,True,3.6,118,30,148,920,421,windows
+100025,Void Uprising,2024-11-15,Annapurna Interactive,Valve,Adventure,False,22.36,1778,526,2304,984,449,windows
+100026,Rogue Frontier,2021-10-19,Silent Kingdom Studio,505 Games,Indie,True,4.59,2143,165,2308,856,531,windows
+100027,Rusty Kingdom,2023-02-23,Ubisoft,Paradox Interactive,Free to Play,False,0.0,912,409,1321,3201,1201,windows;linux
+100028,Rogue Citadel,2021-09-14,Dark Reckoning Studio,Ubisoft,Indie,True,3.75,299,65,364,597,340,windows
+100029,Broken Odyssey 2,2023-05-10,EA,Private Division,Adventure,False,19.08,451,60,511,1118,853,windows
+100030,Rusty Odyssey,2021-08-20,Frozen Chronicles Studio,EA,Indie,True,5.36,978,254,1232,1424,740,windows;linux
+100031,Shadow Colony,2011-04-15,Lost Reckoning Studio,Team17,Strategy,True,11.42,3261,1263,4524,2406,1686,windows
+100032,Lost Protocol,2024-01-21,Private Division,Raw Fury,RPG,False,26.62,468,82,550,4705,2355,windows;mac
+100033,Crimson Colony,2018-09-17,Golden Citadel Studio,EA,Indie,True,4.69,222,159,381,1321,592,windows;mac
+100034,Eternal Requiem,2020-05-04,Valve,Solo Studio,RPG,False,21.38,384,378,762,3188,1818,windows;mac;linux
+100035,Ashen Frontier,2021-03-18,Raw Fury,Square Enix,Casual,False,6.55,1051,356,1407,339,176,windows;linux
+100036,Rogue Kingdom,2021-04-03,Square Enix,Team17,Casual,False,12.08,2704,266,2970,282,148,windows
+100037,Lost Wanderer,2022-01-13,Rogue Protocol Studio,Indie Collective,Indie,True,4.4,82,234,316,467,336,windows
+100038,Ashen Frontier 4,2011-09-14,Neon Descent Studio,Devolver Digital,Indie,True,5.63,66,20,86,1080,383,windows;mac
+100039,Dark Kingdom,2023-11-28,Indie Collective,Ubisoft,Casual,False,9.43,13793,4740,18533,508,257,windows
+100040,Silent Legacy,2022-04-21,Ashen Reckoning Studio,Valve,Action,True,8.9,4975,539,5514,1121,338,windows;mac
+100041,Silent Sanctuary,2017-09-02,Annapurna Interactive,Focus Entertainment,Casual,False,8.07,481,309,790,224,129,windows;mac
+100042,Rusty Reckoning,2020-09-27,Private Division,Paradox Interactive,Strategy,False,33.91,14307,3993,18300,2001,778,windows;mac;linux
+100043,Shadow Colony,2019-05-15,Focus Entertainment,Square Enix,Adventure,False,24.22,7603,1959,9562,1626,1092,windows;linux
+100044,Neon Protocol,2021-05-16,Valve,Ubisoft,Casual,False,8.8,50647,18883,69530,395,253,windows;linux
+100045,Void Citadel,2016-12-06,Valve,Ubisoft,Strategy,False,28.54,3234,1576,4810,2945,1317,windows;mac;linux
+100046,Silent Chronicles,2012-11-12,Square Enix,Paradox Interactive,Free to Play,False,0.0,2624,164,2788,2141,913,windows;mac;linux
+100047,Crimson Wanderer,2019-02-22,,Square Enix,Indie,True,5.81,232,10,242,747,378,windows;mac
+100048,Dark Colony,2017-04-07,Golden Requiem Studio,Devolver Digital,Indie,True,3.98,501,621,1122,605,221,windows
+100049,Neon Requiem 1,2010-05-04,Frozen Requiem Studio,Square Enix,Adventure,True,9.37,326,46,372,1310,878,windows;linux
+100050,Rogue Requiem,2021-01-22,Golden Citadel Studio,Devolver Digital,Indie,True,5.88,292,132,424,598,316,windows;mac
+100051,Void Citadel,2020-04-19,Crimson Odyssey Studio,Ubisoft,Indie,True,5.29,412,143,555,751,473,windows
+100052,Crimson Colony,2024-04-12,Square Enix,Annapurna Interactive,RPG,False,30.61,836,397,1233,4141,1918,windows;mac;linux
+100053,Shadow Frontier,2014-11-08,Rogue Requiem Studio,Focus Entertainment,RPG,True,13.8,1402,30,1432,5766,4543,windows
+100054,Frozen Uprising,2018-11-24,Team17,505 Games,Adventure,False,20.11,4952,3171,8123,531,362,windows
+100055,Eternal Odyssey,2021-05-12,Dark Descent Studio,Devolver Digital,RPG,True,10.39,5268,779,6047,4051,2783,windows;linux
+100056,Neon Kingdom,2025-08-02,Raw Fury,Ubisoft,Adventure,False,17.55,3119,239,3358,994,547,windows;mac
+100057,Dark Protocol,2025-12-09,Silent Horizon Studio,505 Games,Adventure,True,7.32,237,21,258,917,466,windows
+100058,Ashen Kingdom,2020-11-08,Shadow Wanderer Studio,Focus Entertainment,Casual,True,2.56,2,1,3,345,128,windows;mac;linux
+100059,Rusty Colony,2020-02-16,Shadow Wanderer Studio,Private Division,Strategy,True,11.25,1571,1254,2825,2317,898,windows
+100060,Frozen Descent,2025-08-27,Broken Kingdom 5 Studio,Solo Studio,Indie,True,4.07,110,9,119,1627,1066,windows
+100061,Dark Sanctuary,2019-04-22,Annapurna Interactive,Raw Fury,Strategy,False,25.86,9510,3963,13473,3408,1315,windows
+100062,Broken Protocol,2016-04-20,Lost Sanctuary Studio,EA,Action,True,8.28,92,32,124,1279,419,windows;mac
+100063,Dark Colony,2014-06-18,Void Legacy Studio,Indie Collective,Sports,True,11.59,1119,348,1467,1802,1395,windows
+100064,Golden Citadel,2019-10-17,Devolver Digital,Annapurna Interactive,Adventure,False,13.24,895,475,1370,1034,789,windows
+100065,Crimson Chronicles,2021-04-11,Focus Entertainment,Annapurna Interactive,RPG,False,26.46,901,353,1254,3697,1584,windows;linux
+100066,Eternal Colony,2024-12-17,Focus Entertainment,Solo Studio,Action,False,13.06,1569,44,1613,1963,1360,windows;mac;linux
+100067,Rusty Reckoning,2023-05-05,Rogue Sanctuary Studio,Indie Collective,Indie,True,5.1,1340,287,1627,297,209,windows;mac
+100068,Shadow Colony,2023-06-07,Iron Requiem Studio,Devolver Digital,Indie,True,4.35,497,98,595,675,428,windows
+100069,Rusty Descent,2013-07-15,Silent Kingdom Studio,EA,Action,True,9.43,423,100,523,1299,669,windows;linux
+100070,Rusty Citadel,2011-01-09,Void Uprising 1 Studio,Paradox Interactive,Indie,True,6.01,149,47,196,732,364,windows
+100071,Broken Horizon,2022-03-16,Broken Frontier Studio,Square Enix,Racing,True,12.85,285,237,522,923,725,windows
+100072,Crimson Odyssey,2019-05-06,Shadow Protocol 3 Studio,Ubisoft,Action,True,10.67,32,26,58,1787,1409,windows
+100073,Frozen Horizon,2016-03-15,Devolver Digital,Focus Entertainment,Casual,False,11.35,1204,819,2023,326,223,windows
+100074,Iron Protocol,2022-11-05,Square Enix,Solo Studio,RPG,False,31.6,231,43,274,5513,2816,windows;mac
+100075,Neon Requiem,2024-03-08,505 Games,Private Division,Action,False,22.48,1194,381,1575,2688,1696,windows;linux
+100076,Eternal Odyssey,2020-07-07,Indie Collective,EA,Simulation,False,21.02,488,397,885,1948,776,windows
+100077,Dark Requiem,2020-11-23,Iron Wanderer Studio,Square Enix,Strategy,True,9.93,205,24,229,3765,2537,windows
+100078,Rogue Descent,2023-05-05,Valve,Raw Fury,Adventure,False,12.73,7080,265,7345,1706,1060,windows;linux
+100079,Golden Odyssey,2013-09-01,Focus Entertainment,Private Division,Casual,False,8.6,1218,853,2071,118,94,windows;mac;linux
+100080,Dark Reckoning,2024-04-13,Neon Odyssey Studio,Team17,Indie,True,5.17,57,8,65,528,338,windows
+100081,Golden Kingdom,2017-11-10,Indie Collective,Focus Entertainment,RPG,False,25.98,43748,16407,60155,2165,654,windows;linux
+100082,Golden Colony,2019-05-21,EA,Team17,Adventure,False,14.14,3140,1539,4679,1186,594,windows
+100083,Frozen Requiem 7,2016-09-12,Solo Studio,Team17,Action,False,25.96,13040,3699,16739,1332,667,windows;mac;linux
+100084,Neon Kingdom,2016-05-26,Valve,Devolver Digital,Action,False,36.15,364,35,399,2022,1555,windows
+100085,Silent Citadel,2017-11-12,Team17,Focus Entertainment,Strategy,False,24.57,63782,6582,70364,4003,2557,windows
+100086,Void Protocol,2018-05-18,EA,Team17,Strategy,False,36.59,1224,199,1423,3490,1572,windows
+100087,Void Horizon,2022-08-09,Ashen Protocol Studio,Team17,Simulation,True,9.47,65,19,84,2231,1505,windows;mac;linux
+100088,Ashen Protocol,2010-03-10,Dark Wanderer Studio,Solo Studio,Simulation,True,10.69,520,1657,2177,2642,1965,windows
+100089,Rogue Uprising,2016-12-04,Broken Reckoning Studio,Square Enix,Sports,True,11.58,21,4,25,1586,976,windows;mac
+100090,Eternal Protocol,2017-06-12,Broken Frontier Studio,Devolver Digital,Adventure,True,6.35,387,108,495,926,378,windows;mac
+100091,Shadow Citadel,2014-04-10,Annapurna Interactive,Annapurna Interactive,RPG,False,38.05,1234,190,1424,7736,3237,windows
+100092,Lost Chronicles,2020-12-15,Focus Entertainment,EA,Adventure,False,22.63,38,64,102,235,91,windows
+100093,Crimson Citadel,2021-01-28,Team17,Raw Fury,Strategy,False,0.0,5194,2562,7756,3049,1266,windows
+100094,Rusty Uprising,2017-05-08,Ashen Requiem Studio,Focus Entertainment,Free to Play,True,0.0,130,43,173,2724,1094,windows
+100095,Iron Sanctuary,2023-12-08,Focus Entertainment,Focus Entertainment,Free to Play,False,0.0,1648,453,2101,1561,726,windows
+100096,Broken Requiem,2021-11-05,Iron Odyssey Studio,Team17,Indie,True,4.44,146,64,210,763,552,windows
+100097,Shadow Sanctuary 7,2024-01-10,Void Requiem Studio,505 Games,Casual,True,2.76,113,15,128,481,259,windows
+100098,Broken Protocol,2023-09-15,Devolver Digital,Annapurna Interactive,Adventure,False,15.96,10412,4161,14573,1217,472,windows;linux
+100099,Void Frontier,2009-11-22,Focus Entertainment,Private Division,Action,False,39.25,57553,30254,87807,2148,809,windows
+100100,Rogue Reckoning,2025-09-04,505 Games,Team17,Adventure,False,13.98,403,336,739,921,668,windows;mac
+100101,Frozen Requiem,2013-09-19,505 Games,Team17,Strategy,False,19.43,2258,345,2603,4309,3345,windows
+100102,Lost Horizon,2011-11-16,Void Legacy 5 Studio,Square Enix,Action,True,7.83,281,47,328,1048,655,windows
+100103,Broken Chronicles,2021-05-05,Rusty Colony 6 Studio,EA,Indie,True,5.04,122,321,443,549,419,windows
+100104,Broken Frontier,2019-02-03,Void Sanctuary Studio,Focus Entertainment,Free to Play,True,0.0,108,93,201,3005,1300,windows;linux
+100105,Crimson Requiem,2024-07-05,Ashen Protocol Studio,Square Enix,Indie,True,4.33,699,453,1152,648,321,windows;mac
+100106,Dark Protocol,2020-04-19,Neon Citadel Studio,Ubisoft,Indie,True,6.05,1364,118,1482,1260,528,windows;linux
+100107,Eternal Odyssey,2015-08-04,Annapurna Interactive,Valve,Strategy,False,23.62,10484,2675,13159,1160,506,windows
+100108,Iron Citadel,2018-04-03,Void Citadel Studio,Annapurna Interactive,Indie,True,3.57,229,42,271,1024,698,windows
+100109,Broken Protocol,2013-12-28,Frozen Colony 5 Studio,EA,Indie,True,5.8,69,10,79,687,300,windows
+100110,Rusty Sanctuary,2024-12-12,Team17,Private Division,Adventure,False,16.96,691,796,1487,1259,539,windows;mac;linux
+100111,Silent Legacy,2023-12-09,Ubisoft,Team17,Action,False,27.27,1442,200,1642,1619,900,windows;mac
+100112,Void Uprising,2021-05-21,Iron Requiem Studio,Ubisoft,Casual,True,3.37,116,32,148,163,126,windows
+100113,Rogue Requiem,2012-08-02,Frozen Reckoning Studio,Focus Entertainment,Casual,True,3.82,220,27,247,337,163,windows
+100114,Ashen Colony,2017-04-18,Ashen Requiem Studio,Valve,Indie,True,4.66,323,159,482,668,465,windows;mac
+100115,Frozen Kingdom,2023-01-15,Indie Collective,505 Games,Action,False,34.34,7202,751,7953,2178,1590,windows
+100116,Neon Horizon,2024-03-20,Frozen Kingdom 5 Studio,Solo Studio,Strategy,True,9.42,372,18,390,2899,1925,windows;linux
+100117,Rusty Legacy,2020-10-16,Indie Collective,Raw Fury,Adventure,False,24.49,8148,3208,11356,979,536,windows
+100118,Neon Legacy,2016-02-06,Ashen Chronicles 7 Studio,Focus Entertainment,Action,True,10.44,702,253,955,2054,995,windows
+100119,Eternal Sanctuary,2012-12-25,Shadow Uprising Studio,Paradox Interactive,Indie,True,6.0,44,22,66,802,637,windows
+100120,Dark Uprising 2,2019-01-11,Ubisoft,Solo Studio,RPG,False,30.9,1116,476,1592,3931,2543,windows
+100121,Lost Citadel,2011-02-10,EA,Focus Entertainment,Action,False,20.05,2083,3002,5085,911,329,windows;mac
+100122,Golden Legacy,2021-09-09,Solo Studio,Annapurna Interactive,Casual,False,9.95,3614,5596,9210,227,75,windows
+100123,Silent Colony,2012-03-02,EA,Square Enix,Action,False,30.97,38869,5429,44298,921,582,windows;mac;linux
+100124,Ashen Frontier,2020-11-17,Ashen Legacy Studio,Team17,Indie,True,3.64,109,51,160,562,197,windows;mac;linux
+100125,Rusty Protocol,2023-05-17,Broken Odyssey Studio,EA,RPG,True,13.18,76,59,135,3498,1387,windows
+100126,Crimson Kingdom,2019-11-22,Frozen Descent Studio,Paradox Interactive,Indie,True,5.9,67,62,129,872,502,windows
+100127,Ashen Requiem,2011-08-27,Square Enix,Raw Fury,Sports,False,47.57,5675,281,5956,1560,644,windows
+100128,Silent Wanderer,2024-02-13,Golden Chronicles Studio,Paradox Interactive,Indie,True,6.23,6130,292,6422,876,682,windows
+100129,Lost Reckoning,2020-07-25,Ashen Frontier 4 Studio,Team17,Adventure,True,9.61,158,73,231,245,108,windows
+100130,Golden Legacy,2021-01-10,Team17,Private Division,RPG,False,17.64,12795,1670,14465,4895,2985,windows;mac;linux
+100131,Iron Colony,2016-05-01,Square Enix,Square Enix,Action,False,21.81,377,100,477,1239,937,windows
+100132,Rogue Requiem,2020-12-20,Eternal Citadel Studio,Devolver Digital,Indie,True,3.59,403,81,484,765,418,windows
+100133,Lost Uprising,2016-11-17,Private Division,Focus Entertainment,Casual,False,8.66,1316,3718,5034,264,162,windows
+100134,Lost Requiem,2023-12-17,Golden Requiem Studio,505 Games,Simulation,True,11.56,175,48,223,3121,2206,windows;linux
+100135,Iron Sanctuary,2019-11-12,Dark Sanctuary Studio,Square Enix,Action,True,8.47,691,63,754,1529,763,windows
+100136,Dark Wanderer 4,2024-04-05,Void Protocol Studio,Solo Studio,Strategy,True,12.07,99,17,116,3291,2428,windows
+100137,Rusty Protocol,2022-09-15,Neon Horizon Studio,Team17,Indie,True,4.66,276,135,411,1466,621,windows;mac;linux
+100138,Shadow Requiem,2021-07-15,Silent Reckoning Studio,Valve,Free to Play,True,0.0,455,46,501,2100,1567,windows;mac
+100139,Iron Legacy,2022-02-17,Crimson Colony Studio,Team17,Adventure,True,5.67,983,177,1160,518,163,windows;mac;linux
+100140,Void Odyssey,2022-07-15,Ubisoft,Ubisoft,Simulation,False,32.25,532,132,664,212,80,windows;mac;linux
+100141,Dark Uprising,2020-01-03,Ashen Colony Studio,Focus Entertainment,Indie,True,3.9,11,13,24,517,294,windows
+100142,Lost Reckoning,2018-09-15,Raw Fury,Paradox Interactive,Simulation,False,35.5,572,120,692,3797,1488,windows
+100143,Dark Uprising,2017-10-17,Eternal Wanderer Studio,Annapurna Interactive,Action,True,9.6,4564,551,5115,2337,958,windows
+100144,Silent Horizon,2022-06-08,Square Enix,505 Games,Simulation,False,16.03,56541,14994,71535,3049,2084,windows
+100145,Golden Citadel,2024-06-13,Dark Uprising Studio,Ubisoft,Indie,True,4.79,1741,536,2277,775,280,windows
+100146,Iron Odyssey,2016-08-04,Broken Kingdom Studio,EA,Action,True,9.4,494,35,529,2358,968,windows
+100147,Silent Chronicles,2013-02-11,Indie Collective,Valve,RPG,False,27.98,1377,505,1882,3578,2804,windows;linux
+100148,Ashen Requiem,2020-04-05,Private Division,EA,Action,False,25.96,292,53,345,968,621,windows
+100149,Eternal Kingdom,2024-09-26,Frozen Horizon Studio,Devolver Digital,Indie,True,4.91,169,90,259,636,244,windows;mac;linux
+100150,Rusty Odyssey,2024-12-23,Annapurna Interactive,Team17,Action,False,18.03,45,6,51,1349,620,windows;mac
+100151,Lost Descent,2020-05-23,Neon Sanctuary Studio,Valve,RPG,True,13.65,929,357,1286,6114,2571,windows
+100152,Void Citadel,2021-01-14,Rusty Descent Studio,Indie Collective,Simulation,True,10.38,163,16,179,4175,2869,windows
+100153,Dark Descent,2017-11-20,Team17,Annapurna Interactive,Casual,False,8.25,338,11,349,426,184,windows;mac
+100154,Frozen Citadel,2025-05-04,Lost Colony Studio,Ubisoft,Action,True,10.7,32,7,39,1957,1320,windows;linux
+100155,Crimson Frontier,2021-03-25,Raw Fury,EA,Action,False,21.06,2367,1006,3373,2964,1550,windows
+100156,Lost Citadel,2022-02-25,Indie Collective,Solo Studio,Action,False,27.69,4530,6236,10766,1377,630,windows
+100157,Broken Odyssey,2025-07-04,Indie Collective,Ubisoft,Casual,False,4.89,4202,337,4539,390,248,windows;mac
+100158,Lost Legacy,2022-08-19,Crimson Kingdom Studio,Paradox Interactive,Indie,True,4.85,228,62,290,1110,585,windows
+100159,Frozen Legacy,2013-09-02,Valve,EA,Sports,False,48.73,32137,12976,45113,998,712,windows;mac
+100160,Neon Kingdom 7,2018-09-23,Shadow Frontier Studio,Valve,Action,True,8.11,109,20,129,1281,475,windows
+100161,Rusty Frontier,2022-03-16,Valve,Valve,RPG,False,24.87,21476,4329,25805,2394,926,windows
+100162,Iron Kingdom 2,2010-03-16,Silent Citadel Studio,Private Division,Action,True,11.19,1882,505,2387,1954,1481,windows
+100163,Rusty Frontier,2022-12-23,Void Horizon Studio,Private Division,Action,True,10.54,88,46,134,2051,1394,windows;mac;linux
+100164,Iron Horizon,2014-02-15,Solo Studio,Devolver Digital,RPG,False,19.36,1843,251,2094,3380,1520,windows;mac
+100165,Shadow Protocol,2021-05-12,Valve,Square Enix,Casual,False,6.27,9814,8802,18616,188,63,windows
+100166,Iron Wanderer,2025-04-17,Annapurna Interactive,Devolver Digital,Strategy,False,34.92,3360,1334,4694,3547,1552,windows
+100167,Rusty Requiem 7,2018-08-18,Rogue Horizon Studio,Raw Fury,Adventure,True,7.85,1316,279,1595,1225,944,windows;mac
+100168,Ashen Descent,2024-01-23,Annapurna Interactive,Private Division,Action,False,27.43,1798,788,2586,1763,911,windows;mac;linux
+100169,Crimson Legacy,2020-07-07,Shadow Odyssey Studio,Ubisoft,Indie,True,6.33,206,38,244,588,329,windows
+100170,Silent Wanderer,2023-04-11,Ubisoft,Paradox Interactive,RPG,False,17.75,77,47,124,2800,1285,windows;mac
+100171,Neon Colony,2022-08-12,Frozen Chronicles Studio,Focus Entertainment,Indie,True,4.82,58248,256057,314305,1388,1056,windows
+100172,Golden Uprising,2022-12-07,Broken Sanctuary Studio,Valve,Indie,True,3.58,1371,52,1423,1177,844,windows;mac;linux
+100173,Crimson Frontier,2014-07-16,Eternal Descent Studio,Ubisoft,Adventure,True,5.49,45,17,62,1350,636,windows
+100174,Crimson Requiem,2021-02-26,Raw Fury,EA,Sports,False,24.0,1064,476,1540,937,300,windows;mac;linux
+100175,Iron Citadel,2022-10-16,Rusty Requiem Studio,Valve,Strategy,True,8.05,23,7,30,5157,3582,windows;mac;linux
+100176,Lost Frontier,2025-10-13,Broken Reckoning Studio,Focus Entertainment,Indie,True,4.84,218,130,348,1066,766,windows;mac
+100177,Shadow Chronicles,2021-12-01,Iron Requiem Studio,Valve,Indie,True,6.06,6952,2510,9462,869,508,windows;mac
+100178,Silent Colony,2025-08-20,505 Games,Indie Collective,Simulation,False,38.77,5665,1734,7399,4361,1547,windows
+100179,Crimson Horizon,2011-06-28,Focus Entertainment,Raw Fury,Action,False,19.66,1479,156,1635,1725,986,windows
+100180,Golden Horizon,2023-06-25,Ubisoft,Devolver Digital,Adventure,False,17.49,2834,1036,3870,1477,815,windows
+100181,Ashen Frontier,2018-12-06,Indie Collective,Annapurna Interactive,Casual,False,6.17,1627,1395,3022,438,299,windows
+100182,Lost Citadel,2023-05-09,Devolver Digital,Solo Studio,Simulation,False,24.91,6101,3078,9179,2437,1341,windows;linux
+100183,Broken Uprising,2016-01-10,Rogue Descent Studio,505 Games,Indie,True,4.48,225,60,285,994,777,windows;mac;linux
+100184,Frozen Odyssey 3,2016-09-06,Private Division,Valve,Casual,False,11.67,352,294,646,280,122,windows;mac;linux
+100185,Golden Protocol,2017-06-25,Paradox Interactive,Raw Fury,Strategy,False,21.05,1802,520,2322,2542,1032,windows;mac;linux
+100186,Void Colony,2014-09-28,Eternal Horizon 5 Studio,Valve,Indie,True,5.22,355,83,438,1251,732,windows
+100187,Golden Uprising,2025-06-17,Rogue Kingdom Studio,505 Games,Action,True,9.28,30,34,64,938,303,windows
+100188,Frozen Frontier,2022-07-23,Dark Colony Studio,Paradox Interactive,Action,True,11.4,2670,837,3507,2046,1434,windows
+100189,Broken Odyssey,2017-11-16,Annapurna Interactive,Square Enix,Simulation,False,34.26,1894,811,2705,3810,2658,windows
+100190,Rogue Horizon,2017-11-25,Iron Kingdom Studio,Raw Fury,Adventure,True,6.64,194,62,256,1135,498,windows;linux
+100191,Iron Colony,2023-11-15,Frozen Sanctuary 3 Studio,Private Division,Indie,True,0.0,879,95,974,1045,570,windows;mac;linux
+100192,Void Kingdom 4,2020-09-26,Private Division,Square Enix,Simulation,False,23.19,1497,518,2015,2502,1562,windows
+100193,Broken Odyssey,2015-04-08,Neon Uprising Studio,Solo Studio,Indie,True,3.97,1183,654,1837,1169,386,windows
+100194,Rusty Kingdom,2010-09-16,Devolver Digital,Square Enix,Strategy,False,25.41,2567,1664,4231,1088,484,windows;mac
+100195,Silent Wanderer,2021-07-19,Rogue Wanderer Studio,EA,Indie,True,5.32,7838,649,8487,1022,494,windows
+100196,Lost Kingdom,2010-11-19,Eternal Wanderer Studio,Devolver Digital,Strategy,True,10.42,436,15,451,2590,921,windows
+100197,Golden Citadel,2024-06-20,Solo Studio,Annapurna Interactive,Action,False,31.45,62,29,91,1485,833,windows;mac
+100198,Silent Uprising,2023-04-22,Dark Wanderer Studio,Focus Entertainment,Action,True,10.18,304,103,407,1509,810,windows
+100199,Iron Protocol,2024-07-05,Private Division,Valve,RPG,False,31.85,5391,1267,6658,2223,1233,windows
+100200,Neon Kingdom,2012-12-06,Raw Fury,505 Games,RPG,False,27.51,880,650,1530,1838,1419,windows
+100201,Iron Reckoning,2018-08-15,Rusty Sanctuary Studio,Indie Collective,Sports,True,16.75,136,95,231,662,246,windows
+100202,Dark Uprising,2019-01-02,Team17,Valve,Adventure,False,14.72,205,28,233,1413,591,windows
+100203,Ashen Wanderer,2023-05-07,Paradox Interactive,Team17,Action,False,20.69,5481,2182,7663,1464,852,windows
+100204,Silent Wanderer,2018-06-12,Lost Chronicles Studio,Valve,Strategy,True,13.54,172,97,269,4431,2748,windows
+100205,Eternal Colony,2014-11-19,Ubisoft,Annapurna Interactive,Simulation,False,20.1,3747,567,4314,2119,1513,windows
+100206,Broken Uprising,2015-06-17,Private Division,Annapurna Interactive,Simulation,False,21.91,1361,680,2041,3176,998,windows;mac
+100207,Lost Chronicles,2022-07-03,Paradox Interactive,Team17,Adventure,False,24.02,2773,621,3394,894,351,windows
+100208,Void Reckoning,2022-06-16,Private Division,Ubisoft,Strategy,False,31.87,540,76,616,3049,1677,windows
+100209,Rogue Requiem,2025-08-16,Void Descent Studio,Devolver Digital,Indie,True,6.15,589,466,1055,778,517,windows
+100210,Broken Reckoning 1,2019-01-01,505 Games,Indie Collective,Casual,False,6.0,373,74,447,484,259,windows
+100211,Silent Descent,2017-07-25,Lost Protocol Studio,Ubisoft,Adventure,True,7.03,849,242,1091,803,640,windows;mac
+100212,Eternal Reckoning,2014-11-20,,Raw Fury,RPG,False,38.74,26420,2532,28952,4960,3560,windows
+100213,Ashen Legacy 4,2023-02-24,,Focus Entertainment,Action,True,10.68,349,153,502,1167,558,windows
+100214,Ashen Odyssey,2009-09-21,EA,505 Games,Racing,False,16.73,12680,3243,15923,794,528,windows
+100215,Rogue Frontier 6,2023-12-24,Team17,Square Enix,Casual,False,8.67,1641,2893,4534,184,72,windows;mac;linux
+100216,Rogue Uprising,2025-01-21,Devolver Digital,Paradox Interactive,Adventure,False,19.59,53818,34068,87886,712,520,windows
+100217,Broken Uprising,2008-12-10,Golden Odyssey Studio,Devolver Digital,Indie,True,5.34,220,30,250,1144,380,windows;mac;linux
+100218,Dark Uprising,2020-04-20,Devolver Digital,505 Games,RPG,False,36.35,243,39,282,4842,2078,windows
+100219,Shadow Wanderer 3,2023-08-26,Ubisoft,Valve,Simulation,False,18.61,582,492,1074,3298,2538,windows
+100220,Rogue Reckoning,2023-11-04,Lost Colony Studio,Valve,Action,True,7.74,357,200,557,1838,719,windows
+100221,Lost Odyssey,2022-09-07,Rusty Uprising Studio,Focus Entertainment,Sports,True,15.37,713,146,859,1682,604,windows;mac
+100222,Frozen Chronicles,2020-10-09,Square Enix,Team17,Action,False,0.0,275,295,570,1308,731,windows
+100223,Crimson Colony,2023-06-22,Frozen Kingdom Studio,Team17,Strategy,True,8.18,395,46,441,3693,1793,windows
+100224,Silent Kingdom,2018-10-19,Dark Reckoning Studio,Devolver Digital,Action,True,10.68,452,43,495,1616,733,windows;mac
+100225,Frozen Horizon,2018-07-13,Iron Wanderer Studio,Indie Collective,Indie,True,4.44,802,564,1366,592,183,windows;mac
+100226,Golden Horizon,2023-07-21,,Team17,Action,False,0.0,1692,785,2477,1271,1011,windows;linux
+100227,Ashen Reckoning,2020-11-07,Indie Collective,505 Games,Action,False,37.93,3019,3697,6716,956,424,windows
+100228,Eternal Citadel,2020-11-01,Dark Odyssey Studio,Devolver Digital,Action,True,12.13,487,57,544,1583,800,windows;mac
+100229,Ashen Descent,2019-07-25,Rusty Frontier Studio,Solo Studio,Action,True,11.57,238,58,296,2172,1438,windows;mac;linux
+100230,Lost Legacy,2022-04-12,Devolver Digital,505 Games,Adventure,False,13.77,572,53,625,422,179,windows
+100231,Ashen Sanctuary,2022-11-22,Solo Studio,Indie Collective,Action,False,20.1,406,97,503,1714,546,windows;mac
+100232,Crimson Reckoning,2016-04-09,EA,Raw Fury,Action,False,18.97,557,87,644,1930,1067,windows;mac
+100233,Lost Legacy,2016-02-28,EA,Raw Fury,Adventure,False,14.61,1902,94,1996,690,502,windows
+100234,Dark Sanctuary,2020-12-23,Rogue Legacy Studio,Team17,Indie,True,4.36,337,65,402,844,632,windows
+100235,Rusty Odyssey,2018-03-15,Broken Kingdom Studio,Focus Entertainment,Indie,True,5.44,38,9,47,880,472,windows;linux
+100236,Frozen Wanderer,2014-03-20,Square Enix,Indie Collective,Adventure,False,21.83,37766,8991,46757,1762,601,windows
+100237,Shadow Horizon,2018-12-01,Crimson Requiem Studio,505 Games,Casual,True,3.04,278,704,982,301,204,windows
+100238,Crimson Wanderer,2017-06-21,EA,Team17,Casual,False,9.84,1124,283,1407,166,80,windows
+100239,Iron Frontier,2017-02-08,Void Horizon Studio,505 Games,Action,True,12.4,241,76,317,2004,1145,windows
+100240,Lost Kingdom,2024-10-04,EA,Ubisoft,RPG,False,33.17,3956,888,4844,6365,4389,windows
+100241,Rogue Frontier,2016-03-15,Focus Entertainment,Annapurna Interactive,RPG,False,28.56,406939,93061,500000,3949,3005,windows
+100242,Ashen Colony,2022-04-08,Frozen Colony Studio,Team17,RPG,True,8.78,162,21,183,4924,2237,windows;linux
+100243,Broken Colony,2020-11-23,Crimson Protocol 6 Studio,Ubisoft,Strategy,True,9.94,218,24,242,3540,1835,windows;mac;linux
+100244,Rusty Uprising,2020-09-06,Square Enix,Private Division,RPG,False,39.67,6323,1948,8271,1557,680,windows;mac
+100245,Eternal Horizon,2024-03-17,Ubisoft,Private Division,Action,False,24.61,17811,6876,24687,1619,829,windows
+100246,Silent Protocol,2023-05-01,Raw Fury,Devolver Digital,Action,False,33.4,53,280,333,1161,732,windows
+100247,Dark Legacy,2022-03-17,Private Division,Devolver Digital,RPG,False,32.61,915,313,1228,4298,3137,windows
+100248,Golden Colony,2017-09-14,,Raw Fury,Free to Play,True,0.0,350,23,373,2182,1198,windows;mac
+100249,Crimson Requiem,2014-07-07,Indie Collective,Raw Fury,Action,False,29.61,1449,515,1964,1680,735,windows
+100250,Rusty Chronicles,2023-11-18,Paradox Interactive,Indie Collective,Adventure,False,18.5,2204,1921,4125,755,451,windows
+100251,Lost Protocol 7,2016-10-08,Valve,Square Enix,Simulation,False,26.09,1137,80,1217,3319,1259,windows
+100252,Void Odyssey,2010-08-18,Eternal Legacy Studio,Raw Fury,Indie,True,5.37,114,14,128,742,561,windows
+100253,Lost Citadel,2016-03-26,Dark Chronicles Studio,Indie Collective,Indie,True,3.81,23,3,26,1196,570,windows;mac
+100254,Golden Chronicles,2022-11-20,Paradox Interactive,Indie Collective,Action,False,19.87,11331,2608,13939,2453,1272,windows;mac;linux
+100255,Lost Odyssey,2018-11-21,Solo Studio,505 Games,RPG,False,16.16,51822,4624,56446,2057,1526,windows
+100256,Ashen Odyssey,2025-08-07,Rusty Frontier Studio,Focus Entertainment,Indie,True,5.99,96,9,105,827,475,windows
+100257,Golden Frontier,2024-04-15,Eternal Requiem Studio,Square Enix,Indie,True,5.37,133,86,219,251,103,windows
+100258,Ashen Reckoning,2024-01-12,EA,Valve,RPG,False,0.0,2142,1346,3488,4758,3794,windows;mac
+100259,Crimson Descent,2010-08-25,Devolver Digital,Devolver Digital,Casual,False,10.02,181,31,212,377,289,windows;linux
+100260,Golden Sanctuary 2,2018-02-13,Square Enix,EA,Action,False,26.56,327,105,432,977,526,windows
+100261,Lost Requiem,2021-01-02,Crimson Legacy Studio,Private Division,Indie,True,4.45,5453,1345,6798,821,516,windows
+100262,Void Odyssey 4,2025-01-14,Private Division,Annapurna Interactive,RPG,False,23.43,450,790,1240,1506,922,windows
+100263,Iron Reckoning,2020-06-19,Neon Protocol Studio,Private Division,Action,True,,11,2,13,602,363,windows;mac
+100264,Eternal Uprising,2020-12-08,Broken Reckoning Studio,Team17,Adventure,True,6.02,169,56,225,731,384,windows;linux
+100265,Lost Uprising,2017-01-04,Ashen Legacy Studio,Team17,Indie,True,0.0,31,43,74,671,266,windows;linux
+100266,Rogue Requiem,2013-09-13,Ubisoft,Devolver Digital,Strategy,False,23.33,1551,327,1878,4819,3425,windows
+100267,Frozen Reckoning,2019-04-24,Devolver Digital,Square Enix,Strategy,False,25.97,1484,7,1491,1882,1427,windows;linux
+100268,Frozen Descent,2021-12-21,Ubisoft,Focus Entertainment,Casual,False,8.16,9714,1935,11649,271,122,windows
+100269,Rusty Protocol,2025-06-19,Solo Studio,Team17,RPG,False,20.46,901,347,1248,7603,2980,windows
+100270,Lost Citadel,2011-01-26,,Square Enix,RPG,True,11.8,335,58,393,3491,2655,windows;mac;linux
+100271,Lost Uprising,2022-09-19,Valve,505 Games,Action,False,25.64,6232,1776,8008,2469,1563,windows;linux
+100272,Ashen Odyssey,2021-10-10,Valve,Annapurna Interactive,RPG,False,34.38,3903,906,4809,3103,2147,windows
+100273,Broken Protocol,2022-04-08,Team17,EA,Action,False,23.31,4665,769,5434,2094,827,windows;linux
+100274,Rogue Wanderer,2019-07-09,Paradox Interactive,Paradox Interactive,Racing,False,25.09,122,54,176,1558,743,windows
+100275,Eternal Uprising,2022-04-14,Crimson Kingdom Studio,EA,Simulation,True,6.82,882,1804,2686,2767,1661,windows;mac
+100276,Ashen Reckoning,2024-10-05,505 Games,Valve,Action,False,23.5,466,580,1046,868,262,windows;mac
+100277,Shadow Citadel,2016-03-04,Neon Legacy Studio,Private Division,Adventure,True,8.33,179,49,228,1178,658,windows;linux
+100278,Frozen Wanderer,2021-03-19,Frozen Citadel Studio,Raw Fury,Action,True,7.15,40,9,49,1492,755,windows
+100279,Iron Legacy,2018-04-07,Golden Citadel Studio,Square Enix,Indie,True,4.26,47,14,61,768,384,windows
+100280,Dark Requiem,2016-06-13,Square Enix,Annapurna Interactive,Action,False,25.09,1745,843,2588,2253,1062,windows
+100281,Frozen Odyssey,2018-09-01,Ashen Reckoning 2 Studio,Ubisoft,Strategy,True,14.68,55,20,75,3748,1976,windows
+100282,Silent Wanderer,2022-04-05,Iron Kingdom 3 Studio,Paradox Interactive,Casual,True,4.4,79,42,121,267,197,windows
+100283,Void Chronicles,2023-09-22,505 Games,Indie Collective,Action,False,25.84,2889,236,3125,2589,1329,windows;mac
+100284,Void Horizon,2021-01-15,,Valve,RPG,False,23.54,16069,4245,20314,2816,1843,windows;mac
+100285,Rusty Uprising 6,2023-12-17,Eternal Descent Studio,Ubisoft,RPG,True,9.26,147,42,189,4374,1441,windows
+100286,Golden Citadel,2022-06-02,505 Games,Solo Studio,Action,False,24.18,449,315,764,1271,497,windows
+100287,Dark Chronicles,2024-08-23,Ashen Reckoning Studio,Private Division,Indie,True,3.9,1399,286,1685,1056,452,windows;mac
+100288,Crimson Citadel,2015-11-28,Team17,Focus Entertainment,Adventure,False,19.74,3266,9135,12401,818,288,windows;mac;linux
+100289,Rusty Descent,2011-05-24,Focus Entertainment,Ubisoft,Action,False,14.28,6240,277,6517,1866,1073,windows;mac
+100290,Void Reckoning,2013-02-21,Indie Collective,Raw Fury,Simulation,False,13.3,5375,2819,8194,2880,1260,windows;mac
+100291,Silent Horizon,2024-03-11,Raw Fury,505 Games,Sports,False,45.64,3064,413,3477,1936,616,windows;mac;linux
+100292,Shadow Frontier,2017-10-01,Rusty Sanctuary Studio,EA,RPG,True,9.35,463,181,644,3752,1581,windows;mac
+100293,Frozen Sanctuary,2020-07-04,Raw Fury,505 Games,Action,False,24.45,736,319,1055,1524,544,windows;mac
+100294,Rogue Protocol,2021-09-22,Private Division,Square Enix,RPG,False,32.53,7830,3001,10831,3120,2053,windows;mac;linux
+100295,Frozen Protocol,2022-04-09,Golden Horizon Studio,Ubisoft,Indie,True,5.66,106,9,115,863,548,windows
+100296,Broken Kingdom,2019-02-27,Devolver Digital,Valve,Adventure,False,16.99,4909,2471,7380,1944,1422,windows
+100297,Iron Legacy,2017-06-17,Private Division,Indie Collective,RPG,False,25.04,2747,45,2792,4493,1998,windows
+100298,Rogue Sanctuary,2017-02-06,Iron Colony Studio,Ubisoft,RPG,True,10.42,488,185,673,4194,1436,windows;mac;linux
+100299,Ashen Horizon,2012-01-06,Focus Entertainment,Devolver Digital,Action,False,14.39,12213,2156,14369,1761,1374,windows
+100300,Lost Chronicles,2024-03-09,Ubisoft,Indie Collective,RPG,False,21.62,4462,4919,9381,2571,2047,windows
+100301,Broken Wanderer,2022-03-28,Void Descent Studio,Team17,Adventure,True,8.36,356,51,407,806,390,windows
+100302,Void Chronicles,2022-01-09,Ubisoft,EA,RPG,False,18.04,1737,1878,3615,1730,1210,windows
+100303,Void Chronicles,2018-11-05,Ashen Uprising Studio,Raw Fury,Racing,True,10.99,99,765,864,88,68,windows
+100304,Iron Colony,2014-08-16,Private Division,Focus Entertainment,Casual,False,5.2,14550,9039,23589,349,213,windows
+100305,Silent Reckoning,2024-02-21,Team17,Valve,Strategy,False,41.9,23186,10958,34144,4746,1719,windows;linux
+100306,Lost Kingdom 6,2019-05-13,Rusty Odyssey Studio,Focus Entertainment,Indie,True,3.51,247,104,351,830,428,windows
+100307,Shadow Legacy,2024-09-18,Ubisoft,EA,Action,False,18.73,10786,372,11158,2424,788,windows
+100308,Iron Descent,2024-10-02,Valve,Devolver Digital,RPG,False,24.08,485,7,492,5525,1840,windows;mac
+100309,Rogue Protocol,2020-01-18,Crimson Colony Studio,Indie Collective,Indie,True,3.91,405,169,574,796,385,windows
+100310,Eternal Frontier,2019-09-04,Shadow Kingdom Studio,Devolver Digital,Indie,True,6.08,10,1,11,872,494,windows;mac
+100311,Eternal Frontier,2025-08-06,Crimson Citadel Studio,Raw Fury,Indie,True,4.05,312,98,410,831,384,windows;mac;linux
+100312,Frozen Colony,2013-07-13,Golden Citadel Studio,Square Enix,Indie,True,3.63,13,2,15,900,541,windows;mac
+100313,Void Descent,2019-03-28,Silent Kingdom Studio,505 Games,Indie,True,5.61,225,33,258,682,452,windows;mac
+100314,Rogue Citadel,2011-02-12,Broken Reckoning Studio,Valve,Action,True,11.72,436,98,534,1624,722,windows
+100315,Rusty Sanctuary,2020-05-20,,Square Enix,RPG,True,10.21,238,163,401,6076,2769,windows;linux
+100316,Crimson Wanderer,2012-08-12,Ashen Descent Studio,Solo Studio,Indie,True,5.5,217,45,262,1169,898,windows
+100317,Shadow Wanderer,2024-12-19,Raw Fury,Square Enix,Adventure,False,14.5,470,84,554,678,474,windows
+100318,Silent Sanctuary,2022-06-19,Void Sanctuary Studio,Team17,RPG,True,0.0,2179,349,2528,2244,1302,windows;mac;linux
+100319,Shadow Frontier,2023-09-09,Square Enix,Annapurna Interactive,Casual,False,8.19,25995,3655,29650,248,160,windows
+100320,Lost Legacy,2022-01-15,EA,Valve,Simulation,False,27.15,787,16,803,4552,2282,windows
+100321,Golden Citadel,2019-12-16,Focus Entertainment,Square Enix,Adventure,False,17.01,49731,39948,89679,1247,827,windows;mac
+100322,Ashen Uprising 1,2020-05-10,Ubisoft,EA,Strategy,False,36.03,1903,502,2405,2400,966,windows;mac
+100323,Silent Protocol,2016-11-11,Paradox Interactive,Devolver Digital,Racing,False,26.46,6469,2003,8472,976,427,windows;linux
+100324,Iron Protocol 3,2021-01-22,Ashen Descent Studio,Solo Studio,RPG,True,14.69,152,155,307,4758,3150,windows;mac
+100325,Silent Reckoning,2020-12-05,Private Division,Team17,Strategy,False,22.95,5898,3835,9733,2874,1026,windows
+100326,Void Kingdom,2021-02-19,Rogue Sanctuary Studio,EA,Adventure,True,7.53,191,140,331,1058,682,windows
+100327,Rusty Citadel,2022-04-21,Silent Protocol Studio,Indie Collective,Indie,True,5.67,830,462,1292,477,347,windows;mac;linux
+100328,Golden Protocol,2014-05-01,Valve,Solo Studio,Free to Play,False,0.0,4741,3791,8532,1217,812,windows;mac;linux
+100329,Rusty Frontier,2022-04-24,Square Enix,Raw Fury,Action,False,24.46,92,18,110,1644,526,windows
+100330,Eternal Kingdom,2023-08-06,Iron Requiem Studio,Paradox Interactive,Simulation,True,9.32,153,51,204,3656,1498,windows
+100331,Dark Kingdom,2022-07-22,Neon Sanctuary Studio,Valve,Indie,True,4.84,137,21,158,410,312,windows
+100332,Broken Frontier,2017-07-03,Iron Legacy Studio,Indie Collective,Indie,True,3.73,207,84,291,748,356,windows;mac
+100333,Void Protocol 5,2020-07-26,Team17,Paradox Interactive,RPG,False,31.77,15802,1325,17127,2983,2012,windows
+100334,Iron Legacy,2017-09-20,Team17,Devolver Digital,Racing,False,28.46,219,83,302,1011,673,windows;mac;linux
+100335,Rusty Descent,2020-03-05,Indie Collective,Valve,Action,False,24.64,4162,886,5048,1751,899,windows;linux
+100336,Iron Legacy 1,2022-08-02,Void Chronicles Studio,Paradox Interactive,Indie,True,6.14,152,110,262,791,560,windows;mac
+100337,Dark Frontier,2022-07-28,EA,Annapurna Interactive,Action,False,27.77,669,555,1224,1428,525,windows
+100338,Golden Uprising,2018-09-07,Eternal Requiem Studio,Annapurna Interactive,Adventure,True,7.54,11,103,114,85,34,windows;mac
+100339,Crimson Odyssey,2020-06-01,Indie Collective,Indie Collective,Action,False,17.64,936,799,1735,1313,742,windows
+100340,Iron Chronicles,2021-05-24,Frozen Horizon Studio,Valve,Indie,True,5.71,618,270,888,985,487,windows;mac;linux
+100341,Rogue Legacy 6,2013-08-28,Ubisoft,Devolver Digital,Adventure,False,14.44,117162,13389,130551,552,334,windows
+100342,Dark Sanctuary,2024-09-14,Frozen Horizon Studio,Valve,Indie,True,3.74,1074,937,2011,548,350,windows
+100343,Neon Protocol,2020-10-26,Iron Sanctuary Studio,Indie Collective,Indie,True,5.04,255,56,311,1042,654,windows;mac;linux
+100344,Rogue Frontier,2021-11-05,Shadow Reckoning Studio,505 Games,Indie,True,5.16,228,110,338,424,207,windows;linux
+100345,Shadow Frontier,2013-06-21,Void Chronicles Studio,505 Games,Action,True,8.15,457,370,827,846,267,windows;mac;linux
+100346,Iron Uprising,2025-08-08,Annapurna Interactive,Devolver Digital,Adventure,False,11.15,2711,1747,4458,1695,1018,windows
+100347,Silent Frontier,2022-06-12,Ubisoft,Ubisoft,Sports,False,26.99,2554,349,2903,1864,1051,windows
+100348,Golden Uprising,2019-01-04,505 Games,Solo Studio,RPG,False,26.45,293,268,561,3495,2449,windows;linux
+100349,Rogue Horizon,2018-12-02,Raw Fury,Devolver Digital,RPG,False,20.74,723,40,763,3923,1799,windows;mac;linux
+100350,Ashen Uprising,2022-09-07,Indie Collective,505 Games,Free to Play,False,0.0,87734,13284,101018,2109,1259,windows;mac;linux
+100351,Rusty Sanctuary,2017-07-26,Lost Descent Studio,Valve,Indie,True,4.42,2619,312,2931,821,477,windows;mac
+100352,Golden Requiem,2022-12-21,Solo Studio,Team17,RPG,False,43.2,32358,2100,34458,2909,1403,windows
+100353,Void Descent,2021-03-07,Neon Wanderer Studio,505 Games,Indie,True,4.02,852,62,914,1236,387,windows;mac
+100354,Dark Requiem,2018-12-28,Golden Citadel Studio,Raw Fury,Indie,True,5.29,22,10,32,534,384,windows;mac
+100355,Shadow Chronicles,2019-09-24,,Valve,RPG,False,16.42,3872,1318,5190,4781,2346,windows
+100356,Lost Reckoning,2013-03-15,Frozen Odyssey Studio,Devolver Digital,Racing,True,10.59,333,48,381,1193,731,windows;mac;linux
+100357,Eternal Uprising,2025-12-27,Rogue Horizon Studio,Annapurna Interactive,Action,True,9.29,475,254,729,1571,772,windows;mac
+100358,Eternal Colony,2019-02-23,Broken Wanderer Studio,Team17,Action,True,11.31,302,30,332,1187,630,windows
+100359,Silent Citadel,2021-09-22,Ubisoft,Team17,Simulation,False,23.3,483,32,515,2680,1445,windows
+100360,Silent Reckoning,2012-01-23,Void Wanderer Studio,Indie Collective,Indie,True,3.63,1299,805,2104,643,363,windows;mac
+100361,Eternal Chronicles,2025-03-17,Rusty Legacy Studio,Valve,Indie,True,0.0,73,39,112,986,623,windows;mac
+100362,Dark Requiem,2022-02-07,Shadow Colony Studio,Raw Fury,Strategy,True,8.7,9566,1383,10949,3077,2053,windows;mac
+100363,Golden Uprising,2019-11-05,Silent Legacy Studio,Solo Studio,Action,True,11.78,623,4482,5105,392,118,windows
+100364,Void Frontier,2019-04-28,EA,Raw Fury,Strategy,False,20.68,34148,6787,40935,2455,896,windows;mac
+100365,Golden Frontier,2025-11-17,Ashen Chronicles 2 Studio,Annapurna Interactive,Indie,True,0.0,134,95,229,619,371,windows;mac
+100366,Rogue Descent,2020-10-04,Shadow Citadel Studio,Indie Collective,Action,True,10.95,50,31,81,2039,992,windows
+100367,Shadow Requiem,2022-09-23,Paradox Interactive,Indie Collective,Simulation,False,30.08,3198,637,3835,782,444,windows
+100368,Iron Requiem,2020-11-06,Annapurna Interactive,Private Division,Action,False,18.95,4775,258,5033,2087,875,windows;mac;linux
+100369,Frozen Descent 6,2013-09-05,Annapurna Interactive,Focus Entertainment,RPG,False,31.25,3288,1526,4814,1756,653,windows;linux
+100370,Ashen Odyssey,2022-09-04,505 Games,Indie Collective,Casual,False,8.79,3890,1636,5526,298,149,windows
+100371,Frozen Reckoning,2011-09-02,Ubisoft,Ubisoft,Racing,False,29.55,3741,521,4262,1084,520,windows
+100372,Ashen Reckoning,2020-11-14,Frozen Odyssey Studio,Private Division,Adventure,True,9.19,22,2,24,1189,378,windows
+100373,Dark Descent 3,2020-05-21,Shadow Wanderer Studio,Valve,Action,True,12.38,460,80,540,1194,536,windows
+100374,Golden Wanderer,2018-02-18,Devolver Digital,Team17,Sports,False,34.54,120,28,148,1589,487,windows;mac
+100375,Crimson Chronicles,2025-03-22,,505 Games,Indie,True,5.11,146,51,197,573,232,windows
+100376,Frozen Odyssey 6,2020-03-03,Eternal Reckoning Studio,Annapurna Interactive,Simulation,True,7.25,104,143,247,2862,2187,windows;mac
+100377,Iron Descent,2016-06-26,Neon Chronicles Studio,Team17,Adventure,True,9.2,465,225,690,809,440,windows
+100378,Dark Wanderer,2014-05-19,Raw Fury,Solo Studio,Adventure,False,19.36,1103,43,1146,1787,694,windows
+100379,Ashen Descent 2,2019-06-11,Raw Fury,Ubisoft,Adventure,False,23.46,195,1562,1757,519,348,windows
+100380,Golden Reckoning 3,2019-12-15,Indie Collective,Valve,Adventure,False,27.12,4055,1161,5216,1512,841,windows;mac
+100381,Silent Wanderer,2015-05-09,505 Games,Solo Studio,Action,False,24.78,5596,228,5824,2214,1033,windows
+100382,Shadow Horizon,2019-03-19,Eternal Descent Studio,Team17,Indie,True,6.42,915,738,1653,606,272,windows;linux
+100383,Shadow Chronicles 6,2017-02-04,Valve,Valve,Casual,False,7.41,40902,24502,65404,354,169,windows;linux
+100384,Rusty Reckoning,2023-11-16,Valve,Annapurna Interactive,Action,False,30.0,238,16,254,1739,1235,windows;mac
+100385,Broken Reckoning,2025-02-28,Solo Studio,EA,Strategy,False,30.22,2334,936,3270,1540,976,windows
+100386,Silent Legacy 2,2018-10-10,Solo Studio,Raw Fury,Strategy,False,17.54,1307,172,1479,3284,2137,windows;mac
+100387,Shadow Protocol,2019-02-01,Private Division,Solo Studio,Adventure,False,20.7,26745,7120,33865,1151,649,windows
+100388,Broken Kingdom,2019-10-05,Lost Odyssey Studio,Indie Collective,Simulation,True,10.37,1084,183,1267,2929,2331,windows
+100389,Eternal Chronicles,2025-07-19,Solo Studio,Team17,Racing,False,29.43,103,74,177,838,422,windows
+100390,Void Kingdom,2015-01-15,Broken Frontier Studio,EA,Simulation,True,9.79,1039,76,1115,3340,2303,windows
+100391,Lost Sanctuary,2016-07-25,EA,Indie Collective,Simulation,False,,38476,8676,47152,2239,1046,windows;mac;linux
+100392,Dark Kingdom,2020-05-22,Void Horizon Studio,Indie Collective,Adventure,True,8.92,2820,615,3435,911,663,windows
+100393,Rusty Reckoning,2018-11-21,Lost Legacy Studio,Private Division,Action,True,8.52,71,55,126,2006,654,windows;mac
+100394,Broken Odyssey,2023-06-06,Shadow Sanctuary Studio,Annapurna Interactive,Casual,True,3.51,575,124,699,199,130,windows;mac
+100395,Silent Colony,2016-09-18,Valve,Focus Entertainment,Casual,False,7.94,200,785,985,265,121,windows;mac
+100396,Lost Requiem,2017-07-28,Annapurna Interactive,Team17,RPG,False,30.66,534,55,589,1424,667,windows;mac
+100397,Crimson Citadel,2021-09-19,Shadow Protocol Studio,Ubisoft,Casual,True,3.03,169,86,255,274,148,windows
+100398,Eternal Legacy,2020-11-03,Shadow Colony Studio,Devolver Digital,RPG,True,12.23,8,34,42,2754,1896,windows
+100399,Neon Descent,2016-04-08,Raw Fury,Ubisoft,Action,False,27.79,7944,8677,16621,724,564,windows
+100400,Broken Frontier,2021-12-24,Devolver Digital,Ubisoft,RPG,False,28.8,2968,540,3508,5993,4583,windows;mac
+100401,Rusty Odyssey,2016-05-21,Valve,Team17,RPG,False,25.19,6306,2036,8342,4948,2050,windows;mac
+100402,Iron Frontier,2017-09-27,Private Division,EA,Strategy,False,23.86,3445,1122,4567,4603,1970,windows;linux
+100403,Silent Uprising,2023-02-19,Focus Entertainment,Solo Studio,Strategy,False,25.84,941,348,1289,2834,2038,windows;linux
+100404,Rogue Descent,2023-10-06,Raw Fury,Square Enix,Casual,False,13.84,3319,1965,5284,447,164,windows
+100405,Eternal Descent,2023-12-01,Rogue Citadel Studio,Ubisoft,Casual,True,0.0,538,47,585,402,169,windows;mac
+100406,Golden Uprising,2020-03-21,Valve,EA,Sports,False,54.04,177,33735,33912,1202,462,windows;mac;linux
+100407,Crimson Chronicles,2025-04-16,Void Chronicles Studio,Raw Fury,Indie,True,5.57,371,45,416,819,536,windows
+100408,Ashen Uprising,2019-11-04,Ashen Chronicles Studio,Annapurna Interactive,Sports,True,19.32,19,302,321,1075,390,windows
+100409,Rusty Wanderer,2017-11-28,Iron Protocol 4 Studio,Private Division,Indie,True,3.63,341,214,555,448,296,windows
+100410,Void Frontier,2024-02-21,Ashen Colony Studio,Solo Studio,RPG,True,9.7,5789,770,6559,1678,667,windows
+100411,Ashen Colony,2023-03-24,Valve,Indie Collective,Adventure,False,15.42,8933,4299,13232,1486,895,windows
+100412,Void Frontier,2021-03-15,Raw Fury,EA,Action,False,34.32,1513,320,1833,1305,536,windows;mac
+100413,Iron Reckoning,2025-09-20,Iron Reckoning 1 Studio,Focus Entertainment,Indie,True,5.27,297,39,336,896,607,windows
+100414,Rusty Requiem,2023-03-19,Golden Wanderer Studio,Team17,Indie,True,6.04,42,26,68,822,649,windows
+100415,Lost Horizon,2025-09-13,Frozen Colony Studio,505 Games,Indie,True,6.41,122,54,176,672,305,windows;linux
+100416,Shadow Colony,2022-02-07,Frozen Kingdom Studio,Solo Studio,Strategy,True,9.49,259,46,305,1176,387,windows
+100417,Golden Descent,2011-07-12,Dark Kingdom Studio,Devolver Digital,Action,True,7.83,3923,463,4386,1307,631,windows;linux
+100418,Ashen Legacy,2018-11-14,Neon Kingdom Studio,Indie Collective,Sports,True,11.91,1505,708,2213,898,481,windows
+100419,Ashen Uprising,2018-09-07,Broken Colony Studio,Private Division,Indie,True,5.72,1319,217,1536,896,423,windows
+100420,Ashen Citadel,2018-02-28,Ubisoft,Valve,Action,False,27.15,209,69,278,2107,670,windows
+100421,Crimson Requiem,2021-12-19,Iron Uprising Studio,Square Enix,Indie,True,4.92,483,67,550,618,219,windows;mac
+100422,Neon Reckoning,2014-09-06,Valve,Paradox Interactive,Simulation,False,22.07,6162,3256,9418,937,700,windows
+100423,Frozen Sanctuary,2025-11-04,Iron Odyssey Studio,Annapurna Interactive,Indie,True,5.77,1124,214,1338,1026,678,windows
+100424,Broken Sanctuary,2019-02-28,Ashen Frontier Studio,505 Games,Action,True,10.49,440,358,798,2078,1192,windows;mac;linux
+100425,Silent Protocol,2023-04-06,Private Division,Paradox Interactive,RPG,False,42.93,53835,24253,78088,4207,3064,windows
+100426,Crimson Odyssey,2021-04-15,EA,Annapurna Interactive,RPG,False,33.99,1238,324,1562,3741,1908,windows;linux
+100427,Shadow Reckoning,2019-12-25,Neon Horizon Studio,Raw Fury,Indie,True,3.56,217,125,342,629,488,windows;mac
+100428,Eternal Legacy,2020-01-11,Square Enix,Valve,RPG,False,31.71,328,160,488,4430,2324,windows;mac;linux
+100429,Silent Kingdom 3,2023-01-15,Paradox Interactive,Raw Fury,Simulation,False,21.15,9310,2846,12156,2300,873,windows;mac
+100430,Shadow Legacy,2022-05-08,Rusty Descent Studio,Solo Studio,Simulation,True,9.89,132,50,182,2708,1573,windows;mac
+100431,Crimson Protocol,2019-05-04,,Devolver Digital,Indie,True,6.0,416,118,534,523,217,windows
+100432,Golden Reckoning,2018-07-15,Void Requiem Studio,Private Division,Action,True,11.47,807,203,1010,1868,696,windows
+100433,Eternal Descent,2017-07-12,Broken Protocol 7 Studio,Focus Entertainment,Indie,True,4.6,10783,3931,14714,912,707,windows
+100434,Frozen Descent,2008-07-24,Square Enix,Solo Studio,RPG,False,22.6,1747,648,2395,5487,3766,windows;mac
+100435,Neon Reckoning,2025-06-13,Rusty Descent Studio,EA,Adventure,True,7.13,105,42,147,455,162,windows
+100436,Rusty Odyssey,2018-09-23,Crimson Kingdom Studio,Focus Entertainment,RPG,True,11.01,1692,11702,13394,2517,1431,windows
+100437,Eternal Reckoning,2017-04-12,Shadow Chronicles Studio,Ubisoft,Indie,True,5.43,137,50,187,1129,615,windows
+100438,Silent Descent,2022-12-09,Private Division,Private Division,Action,False,22.53,950,403,1353,1340,922,windows
+100439,Lost Chronicles,2023-10-08,Rogue Chronicles Studio,Paradox Interactive,Casual,True,2.51,589,80,669,424,203,windows
+100440,Neon Sanctuary,2019-07-04,,Square Enix,Indie,True,3.61,3,18,21,331,232,windows;mac;linux
+100441,Frozen Frontier,2014-12-11,,505 Games,Free to Play,False,0.0,794,205,999,2751,1905,windows
+100442,Golden Chronicles,2022-08-22,Paradox Interactive,EA,Strategy,False,34.13,523,828,1351,2580,988,windows
+100443,Shadow Protocol,2019-09-12,Ashen Sanctuary Studio,Square Enix,Indie,True,5.89,4450,545,4995,648,252,windows;mac;linux
+100444,Frozen Horizon,2022-02-07,Annapurna Interactive,Indie Collective,Action,False,29.15,671,320,991,342,184,windows
+100445,Dark Protocol,2016-05-12,Ashen Colony Studio,Focus Entertainment,Indie,True,5.14,42,9,51,1391,1086,windows;mac;linux
+100446,Iron Horizon,2021-10-22,Ashen Chronicles Studio,Ubisoft,Indie,True,6.13,245,42,287,1114,384,windows;mac
+100447,Crimson Kingdom,2015-09-26,Neon Chronicles Studio,Indie Collective,Strategy,True,13.42,450,58,508,3060,1125,windows;mac;linux
+100448,Shadow Colony,2019-12-28,Eternal Kingdom Studio,EA,Indie,True,5.28,38,11,49,1027,757,windows
+100449,Rogue Legacy,2024-11-23,Team17,Team17,Action,False,18.33,890,356,1246,2422,1637,windows
+100450,Void Uprising,2015-02-06,Silent Horizon Studio,Focus Entertainment,Indie,True,6.2,320,56,376,508,246,windows
+100451,Frozen Wanderer,2022-06-12,Silent Wanderer Studio,Team17,Adventure,True,8.61,2,2,4,491,297,windows;linux
+100452,Rogue Horizon,2019-04-27,Iron Uprising Studio,Paradox Interactive,Indie,True,0.0,216,47,263,1298,680,windows
+100453,Dark Colony 6,2022-07-01,Private Division,Square Enix,Adventure,False,16.91,1752,473,2225,982,556,windows
+100454,Silent Reckoning,2010-10-06,Golden Colony 7 Studio,Devolver Digital,Indie,True,5.64,1052,319,1371,366,161,windows;mac;linux
+100455,Golden Protocol,2024-03-04,Neon Uprising Studio,Devolver Digital,Indie,True,4.89,2963,19826,22789,620,195,windows
+100456,Eternal Chronicles,2023-12-15,Devolver Digital,Ubisoft,RPG,False,49.63,104,3813,3917,1859,987,windows;linux
+100457,Lost Colony 3,2018-09-18,Lost Horizon Studio,Annapurna Interactive,Action,True,8.84,66,35,101,1256,870,windows;mac
+100458,Iron Uprising 4,2020-03-23,Indie Collective,Focus Entertainment,Simulation,False,20.9,507,488,995,1209,810,windows;mac;linux
+100459,Lost Wanderer,2018-09-24,Silent Legacy Studio,Devolver Digital,Indie,True,4.12,9,2,11,775,442,windows;mac
+100460,Crimson Odyssey,2020-06-05,Valve,Square Enix,Adventure,False,23.91,241,46,287,595,319,windows;mac;linux
+100461,Shadow Legacy,2025-10-25,Team17,Valve,RPG,False,34.77,1291,254,1545,4843,2875,windows;mac
+100462,Rusty Kingdom,2019-06-01,,Paradox Interactive,Indie,True,4.18,466,326,792,1127,532,windows
+100463,Crimson Colony,2018-11-25,Silent Frontier 2 Studio,Team17,Action,True,11.07,592,23,615,2499,963,windows;linux
+100464,Rusty Sanctuary,2019-12-18,Indie Collective,Square Enix,Adventure,False,,1535,286,1821,1168,735,windows
+100465,Neon Odyssey,2017-04-09,Rusty Protocol Studio,505 Games,Adventure,True,7.49,132,20,152,1487,628,windows
+100466,Shadow Citadel,2025-01-22,Ubisoft,Solo Studio,Action,False,26.07,1299,974,2273,1253,620,windows;mac;linux
+100467,Lost Chronicles,2022-08-04,Silent Descent Studio,Team17,Action,True,12.76,444,102,546,2410,1162,windows
+100468,Shadow Reckoning,2024-09-08,,Team17,Simulation,True,9.1,567,42,609,3371,2448,windows;mac;linux
+100469,Broken Wanderer,2011-12-12,Rusty Uprising 1 Studio,Solo Studio,RPG,True,15.69,402,470,872,4459,2587,windows;mac;linux
+100470,Neon Chronicles,2024-09-04,Raw Fury,Indie Collective,Action,False,22.66,687,491,1178,1186,558,windows
+100471,Broken Kingdom,2024-10-10,Void Sanctuary Studio,Valve,RPG,True,14.57,32,14,46,3352,1105,windows;mac
+100472,Shadow Uprising,2019-10-16,Valve,505 Games,RPG,False,28.93,687,171,858,4786,3107,windows;mac;linux
+100473,Lost Reckoning,2025-07-02,Solo Studio,505 Games,Strategy,False,22.58,566,308,874,1783,1262,windows;mac;linux
+100474,Lost Requiem,2016-07-28,Square Enix,Team17,Strategy,False,21.18,735,484,1219,3027,2145,windows
+100475,Neon Descent,2022-08-10,Void Sanctuary Studio,EA,Adventure,True,9.13,353,92,445,915,553,windows;mac
+100476,Broken Requiem,2024-05-22,Rusty Citadel Studio,Team17,Indie,True,4.7,561,129,690,1196,720,windows;mac
+100477,Ashen Protocol,2019-11-27,Rogue Frontier Studio,Paradox Interactive,Indie,True,5.16,219,30,249,574,257,windows
+100478,Neon Odyssey,2022-03-03,Golden Chronicles Studio,Indie Collective,Sports,True,11.73,47,472,519,1392,849,windows
+100479,Golden Uprising,2020-01-25,Iron Sanctuary Studio,505 Games,Indie,True,4.46,355,5,360,961,597,windows
+100480,Iron Protocol,2012-12-18,Neon Odyssey Studio,Devolver Digital,RPG,True,16.07,79,14,93,4112,2406,windows;mac
+100481,Lost Kingdom,2024-06-12,Shadow Legacy Studio,Devolver Digital,Simulation,True,8.38,208,73,281,1475,817,windows
+100482,Rusty Reckoning,2024-08-09,Square Enix,Focus Entertainment,Adventure,False,15.75,14617,2974,17591,940,610,windows
+100483,Frozen Legacy,2009-09-11,Neon Frontier 1 Studio,Annapurna Interactive,RPG,True,13.54,376,70,446,3296,1393,windows;mac
+100484,Rusty Odyssey,2011-02-16,Iron Kingdom Studio,Ubisoft,Indie,True,3.93,4281,341,4622,747,543,windows;mac;linux
+100485,Rogue Protocol,2020-03-14,Focus Entertainment,Paradox Interactive,Action,False,18.63,11560,5415,16975,1818,1006,windows;linux
+100486,Eternal Colony,2011-05-05,Solo Studio,Team17,Strategy,False,15.49,6137,2032,8169,2884,1875,windows
+100487,Broken Protocol,2018-04-19,Indie Collective,Focus Entertainment,Simulation,False,18.16,9814,1838,11652,1774,973,windows
+100488,Rusty Colony,2022-03-01,,505 Games,Simulation,False,26.74,97,85,182,999,337,windows;linux
+100489,Shadow Odyssey,2024-07-15,Ashen Sanctuary Studio,Devolver Digital,Casual,True,3.29,73,117,190,481,351,windows
+100490,Frozen Sanctuary,2020-03-12,Devolver Digital,Square Enix,Action,False,16.76,148,20,168,1597,1109,windows;mac;linux
+100491,Silent Requiem 2,2017-05-18,Void Colony Studio,Paradox Interactive,Simulation,True,11.47,8,3,11,2720,1641,windows;linux
+100492,Golden Wanderer,2021-03-08,Frozen Legacy Studio,Raw Fury,RPG,True,12.57,346,90,436,3657,2629,windows
+100493,Iron Frontier,2012-01-21,Raw Fury,EA,Adventure,False,16.44,1438,211,1649,966,330,windows;mac
+100494,Eternal Kingdom 5,2022-10-20,Rogue Frontier Studio,Raw Fury,Simulation,True,11.29,70,28,98,2594,1058,windows
+100495,Broken Citadel,2017-12-02,Valve,Valve,Action,False,0.0,2912,1159,4071,2062,677,windows;mac;linux
+100496,Broken Horizon,2015-04-06,Dark Reckoning Studio,Annapurna Interactive,RPG,True,8.79,137,30,167,3978,1285,windows
+100497,Shadow Kingdom,2008-10-17,Square Enix,EA,Strategy,False,34.22,43199,12091,55290,3505,2514,windows
+100498,Void Legacy 2,2013-07-03,,Ubisoft,Strategy,False,33.41,420,51,471,3965,1190,windows
+100499,Crimson Chronicles,2016-12-10,505 Games,Valve,Simulation,False,34.21,1725,465,2190,652,447,windows;linux
+100500,Eternal Requiem,2023-07-19,Team17,Focus Entertainment,Action,False,32.51,9165,4503,13668,1280,888,windows;mac;linux
+100501,Golden Legacy,2018-02-12,Broken Sanctuary Studio,Team17,Casual,True,3.31,26,132,158,426,272,windows
+100502,Iron Requiem,2016-04-17,Paradox Interactive,Devolver Digital,Strategy,False,26.48,115,73,188,2283,1534,windows
+100503,Neon Kingdom,2009-07-01,Crimson Kingdom Studio,Devolver Digital,Adventure,True,6.93,897,108,1005,1507,1085,windows
+100504,Rogue Protocol,2023-07-23,Ubisoft,Ubisoft,RPG,False,25.61,1018,3460,4478,2126,1034,windows;mac
+100505,Neon Colony,2019-09-07,Ashen Citadel Studio,Focus Entertainment,Action,True,8.08,2127,1286,3413,2594,1601,windows
+100506,Frozen Horizon 3,2014-04-05,Ashen Colony Studio,Solo Studio,Free to Play,True,0.0,181,17,198,2678,2141,windows
+100507,Void Citadel,2018-07-20,Private Division,Valve,Adventure,False,19.3,9785,1813,11598,671,259,windows
+100508,Ashen Kingdom,2012-04-17,Team17,Team17,Casual,False,10.14,12879,5344,18223,319,214,windows
+100509,Shadow Colony,2025-09-04,Iron Reckoning Studio,505 Games,Adventure,True,8.89,414,19,433,1306,805,windows;linux
+100510,Iron Chronicles,2023-02-23,Valve,Square Enix,Racing,False,19.69,1242,89,1331,1735,529,windows;linux
+100511,Eternal Citadel,2016-04-03,Eternal Descent Studio,Annapurna Interactive,Indie,True,3.88,42,42,84,1131,612,windows
+100512,Broken Requiem,2008-05-24,Crimson Citadel 2 Studio,Raw Fury,Indie,True,0.0,374,158,532,541,291,windows
+100513,Golden Protocol,2022-02-05,Devolver Digital,Annapurna Interactive,Adventure,False,17.92,148004,47189,195193,1069,490,windows
+100514,Crimson Sanctuary 4,2022-03-17,Private Division,Devolver Digital,Action,False,,275,152,427,2532,1960,windows
+100515,Shadow Chronicles,2021-01-23,Broken Citadel Studio,Valve,Sports,True,16.36,244,101,345,1329,636,windows
+100516,Silent Reckoning,2012-01-20,505 Games,Devolver Digital,RPG,False,0.0,8265,2487,10752,4779,1584,windows
+100517,Shadow Kingdom,2017-10-18,Rusty Kingdom Studio,Annapurna Interactive,Indie,True,4.03,422,148,570,361,250,windows;linux
+100518,Void Frontier,2018-10-03,Iron Sanctuary Studio,Focus Entertainment,Casual,True,3.31,453,109,562,288,147,windows
+100519,Crimson Horizon,2014-09-05,Team17,Square Enix,RPG,False,22.34,2103,196,2299,4131,3081,windows
+100520,Broken Sanctuary,2022-06-21,Rusty Protocol Studio,Private Division,Simulation,True,9.06,174,71,245,2707,978,windows
+100521,Lost Uprising,2023-05-10,,505 Games,Free to Play,False,0.0,663,238,901,3135,945,windows
+100522,Rogue Wanderer,2021-05-17,Eternal Wanderer Studio,EA,Indie,True,,57,2112,2169,604,289,windows;mac
+100523,Ashen Legacy,2022-09-26,Indie Collective,Team17,Strategy,False,34.77,3844,230,4074,4805,3813,windows
+100524,Neon Chronicles,2017-12-15,Valve,Focus Entertainment,Strategy,False,23.21,2241,484,2725,3460,1372,windows;linux
+100525,Void Kingdom,2019-07-18,Square Enix,Team17,RPG,False,0.0,23259,9851,33110,2485,1549,windows
+100526,Dark Descent,2020-09-03,Crimson Uprising Studio,EA,Adventure,True,5.33,422,227,649,582,402,windows
+100527,Ashen Citadel,2016-03-26,Eternal Horizon Studio,Annapurna Interactive,Adventure,True,9.37,0,105,105,1134,847,windows
+100528,Dark Reckoning,2025-09-19,Raw Fury,Private Division,Action,False,20.46,1275,528,1803,716,489,windows
+100529,Broken Citadel,2025-01-08,Neon Uprising Studio,Private Division,Adventure,True,8.82,545,168,713,1101,469,windows;linux
+100530,Rogue Reckoning,2018-11-20,Team17,Paradox Interactive,Strategy,False,25.08,24862,10258,35120,3491,2413,windows
+100531,Silent Protocol,2025-04-26,Raw Fury,Annapurna Interactive,Action,False,20.26,6795,2097,8892,2414,803,windows;mac
+100532,Iron Kingdom,2025-02-15,Paradox Interactive,Team17,Strategy,False,22.54,5674,352,6026,4345,3312,windows;linux
+100533,Rogue Requiem,2023-02-24,Paradox Interactive,Focus Entertainment,Casual,False,8.02,17097,9148,26245,194,113,windows
+100534,Rogue Descent,2017-05-21,Indie Collective,Valve,RPG,False,34.24,12800,4809,17609,3549,2082,windows;mac;linux
+100535,Lost Odyssey,2020-01-02,Raw Fury,Indie Collective,Simulation,False,33.05,2809,2828,5637,1445,988,windows
+100536,Rusty Horizon,2022-11-14,Indie Collective,Indie Collective,RPG,False,35.79,5104,2528,7632,2916,2121,windows
+100537,Lost Horizon,2025-01-25,Annapurna Interactive,Valve,RPG,False,28.41,13065,3360,16425,2593,1121,windows;mac
+100538,Iron Frontier,2022-06-04,Golden Kingdom Studio,Private Division,Action,True,9.73,552,30,582,2908,1301,windows
+100539,Void Reckoning,2020-10-01,Private Division,Square Enix,Strategy,False,21.29,2932,680,3612,3893,2867,windows;linux
+100540,Crimson Wanderer,2014-06-14,Dark Citadel Studio,Focus Entertainment,Action,True,10.62,1564,340,1904,1900,1501,windows;mac
+100541,Rogue Sanctuary 3,2017-02-15,Ashen Legacy Studio,Indie Collective,Adventure,True,8.69,19,3,22,1776,1172,windows;mac;linux
+100542,Broken Kingdom,2020-05-11,Solo Studio,505 Games,Strategy,False,30.56,5601,1179,6780,5474,3929,windows
+100543,Dark Protocol,2020-04-16,Ashen Protocol Studio,Indie Collective,Strategy,True,11.39,364,44,408,3492,1561,windows;mac;linux
+100544,Dark Odyssey,2018-01-22,Valve,Devolver Digital,Adventure,False,21.2,11302,1926,13228,1669,1116,windows
+100545,Eternal Descent,2015-05-16,Raw Fury,Ubisoft,Simulation,False,17.26,201848,25932,227780,3574,1592,windows
+100546,Rogue Reckoning,2013-12-18,Crimson Descent Studio,Ubisoft,RPG,True,14.33,3771,406,4177,3307,1458,windows;mac
+100547,Shadow Uprising,2018-06-03,Frozen Reckoning Studio,EA,Action,True,9.07,52,18,70,1959,797,windows;mac;linux
+100548,Lost Frontier,2024-07-07,Team17,Valve,Adventure,False,22.36,20684,3264,23948,1644,713,windows
+100549,Crimson Requiem 4,2017-08-28,Rogue Reckoning Studio,Team17,Adventure,True,7.78,316,22,338,1594,1191,windows;mac;linux
+100550,Frozen Kingdom,2024-01-13,Eternal Colony 5 Studio,Team17,Indie,True,5.55,1112,764,1876,769,414,windows;mac
+100551,Crimson Descent,2022-12-19,Indie Collective,Indie Collective,Sports,False,59.52,3591,690,4281,2055,920,windows;mac
+100552,Rusty Sanctuary,2023-12-18,Broken Colony Studio,Private Division,Indie,True,5.01,316,75,391,465,245,windows;mac;linux
+100553,Iron Chronicles,2018-06-15,Eternal Frontier Studio,Private Division,Indie,True,6.26,788,124,912,754,589,windows
+100554,Neon Horizon,2024-12-22,Silent Odyssey Studio,EA,Indie,True,4.7,353,195,548,553,241,windows
+100555,Rusty Requiem,2021-02-22,Ashen Kingdom Studio,Team17,Indie,True,5.18,149,29,178,960,673,windows;mac
+100556,Void Descent 4,2021-02-17,Broken Colony Studio,Annapurna Interactive,RPG,True,13.77,89,19,108,4509,2323,windows
+100557,Golden Descent,2019-09-12,Valve,505 Games,Simulation,False,30.88,2687,211,2898,1517,704,windows
+100558,Lost Requiem,2017-09-04,Ubisoft,Devolver Digital,Casual,False,9.88,3181,1528,4709,274,161,windows
+100559,Frozen Frontier,2019-03-22,Solo Studio,Private Division,Casual,False,8.4,2721,936,3657,357,224,windows
+100560,Broken Chronicles,2021-07-25,Focus Entertainment,Raw Fury,Free to Play,False,0.0,15916,10703,26619,1431,541,windows;mac;linux
+100561,Frozen Reckoning,2023-02-07,Valve,Square Enix,RPG,False,27.5,609,329,938,3895,1875,windows;mac
+100562,Void Horizon,2018-02-10,Void Sanctuary Studio,Raw Fury,RPG,True,10.42,55,54,109,2559,1870,windows
+100563,Void Odyssey,2022-07-04,Neon Protocol Studio,Raw Fury,Strategy,True,8.38,19,24,43,1885,1419,windows
+100564,Dark Chronicles,2023-11-17,Neon Citadel Studio,EA,Indie,True,3.52,230,244,474,353,195,windows;linux
+100565,Crimson Protocol,2012-04-12,Ubisoft,Team17,Action,False,31.18,701,90,791,855,263,windows
+100566,Broken Sanctuary,2014-02-12,EA,Raw Fury,Action,False,27.3,1610,381,1991,1387,479,windows
+100567,Shadow Citadel,2012-10-14,Eternal Chronicles Studio,505 Games,Indie,True,3.79,152,241,393,926,660,windows
+100568,Shadow Reckoning,2020-05-19,Square Enix,Annapurna Interactive,Action,False,28.84,1753,216,1969,981,526,windows
+100569,Shadow Citadel,2024-05-14,Crimson Colony Studio,Ubisoft,Indie,True,4.36,64,12,76,980,450,windows
+100570,Ashen Sanctuary,2013-02-08,Eternal Requiem Studio,Private Division,Indie,True,5.0,49,5,54,1324,949,windows
+100571,Golden Legacy,2020-11-13,Solo Studio,Focus Entertainment,Casual,False,13.28,597,222,819,387,229,windows
+100572,Frozen Uprising,2022-10-07,Silent Reckoning Studio,Solo Studio,Indie,True,0.0,245,94,339,681,486,windows;linux
+100573,Dark Kingdom,2020-07-15,Crimson Horizon 7 Studio,Solo Studio,Action,True,8.3,342,24,366,1524,781,windows
+100574,Dark Legacy,2024-04-06,Broken Chronicles Studio,Annapurna Interactive,Adventure,True,5.73,554,176,730,1310,806,windows
+100575,Void Frontier,2018-02-17,Crimson Uprising Studio,Ubisoft,Action,True,8.72,365,49,414,1353,519,windows
+100576,Crimson Kingdom,2022-06-05,,Valve,Casual,False,12.98,1217,194,1411,399,157,windows
+100577,Crimson Kingdom,2020-10-22,Private Division,Raw Fury,Sports,False,52.99,628,87,715,1446,487,windows
+100578,Ashen Descent,2018-06-07,Team17,Square Enix,Simulation,False,32.82,4258,1834,6092,2467,1591,windows;mac;linux
+100579,Eternal Requiem,2016-12-17,Paradox Interactive,Annapurna Interactive,Action,False,0.0,3355,725,4080,1520,728,windows;mac;linux
+100580,Shadow Citadel,2010-10-05,Void Legacy Studio,Solo Studio,Action,True,0.0,113,166,279,889,497,windows
+100581,Eternal Colony,2022-11-11,Rogue Reckoning Studio,Raw Fury,Action,True,7.09,675,38,713,1130,341,windows
+100582,Void Kingdom 2,2025-08-13,Broken Reckoning Studio,505 Games,Action,True,8.38,1609,312,1921,1494,988,windows;mac
+100583,Shadow Wanderer,2020-05-05,Dark Requiem Studio,Team17,Strategy,True,13.49,2081,2027,4108,2958,1400,windows
+100584,Ashen Odyssey,2016-04-27,Focus Entertainment,505 Games,Action,False,29.63,2545,373,2918,2451,1277,windows;mac;linux
+100585,Void Uprising,2018-12-26,Solo Studio,Devolver Digital,Casual,False,9.86,11499,2839,14338,333,136,windows
+100586,Iron Descent,2017-12-11,Annapurna Interactive,Annapurna Interactive,Casual,False,9.73,1996,111,2107,382,189,windows
+100587,Rusty Requiem,2024-01-14,Crimson Horizon Studio,Solo Studio,Indie,True,4.51,45,7,52,1093,777,windows
+100588,Silent Uprising,2020-09-21,Lost Odyssey Studio,EA,Adventure,True,8.72,6964,791,7755,393,233,windows
+100589,Eternal Uprising,2016-11-06,Annapurna Interactive,Private Division,Adventure,False,18.58,759,199,958,1277,801,windows;mac;linux
+100590,Crimson Horizon,2023-06-01,Focus Entertainment,Solo Studio,Adventure,False,13.83,4324,1783,6107,1409,1015,windows
+100591,Broken Chronicles,2016-08-17,Rusty Sanctuary Studio,505 Games,Indie,True,4.42,1419,518,1937,714,287,windows
+100592,Broken Kingdom 5,2013-01-18,Focus Entertainment,Indie Collective,RPG,False,0.0,25925,655,26580,3311,1900,windows
+100593,Rusty Wanderer,2015-06-25,Annapurna Interactive,Annapurna Interactive,Adventure,False,22.31,329,27,356,875,448,windows
+100594,Rogue Reckoning,2018-05-18,Lost Chronicles Studio,Raw Fury,Indie,True,6.07,102,25,127,560,251,windows
+100595,Rusty Chronicles,2009-02-18,505 Games,Valve,Action,False,23.36,913,371,1284,2078,1608,windows
+100596,Dark Frontier,2018-01-22,Frozen Sanctuary Studio,Ubisoft,RPG,True,10.16,2474,438,2912,5705,2186,windows
+100597,Void Protocol,2020-09-06,Solo Studio,Valve,RPG,False,,2016,534,2550,4886,2573,windows
+100598,Golden Colony,2015-10-27,Iron Descent 4 Studio,Indie Collective,Strategy,True,8.67,41,30,71,2423,1845,windows;mac;linux
+100599,Rusty Colony,2020-08-07,Annapurna Interactive,Focus Entertainment,Adventure,False,10.94,1157,98,1255,1434,872,windows;linux
+100600,Frozen Wanderer,2018-09-22,Indie Collective,Private Division,Simulation,False,16.08,414,90,504,2176,705,windows;mac
+100601,Broken Horizon,2025-10-23,Dark Colony Studio,Private Division,Sports,True,17.66,16,3,19,1605,789,windows
+100602,Rusty Frontier,2019-04-01,Private Division,505 Games,Strategy,False,42.46,4210,2173,6383,4945,2575,windows;mac
+100603,Eternal Odyssey,2022-07-21,Ashen Descent Studio,Square Enix,Action,True,11.99,12265,3770,16035,1118,637,windows
+100604,Lost Uprising,2019-10-24,Private Division,505 Games,Action,False,18.14,374298,125702,500000,1794,1214,windows
+100605,Crimson Chronicles,2018-02-23,Lost Protocol Studio,Valve,Indie,True,4.18,153,12,165,1003,560,windows
+100606,Rogue Odyssey,2024-04-20,Raw Fury,Devolver Digital,Action,False,27.51,434,61,495,1980,944,windows;linux
+100607,Ashen Descent,2023-01-13,Golden Descent 6 Studio,Ubisoft,Indie,True,6.36,85,55,140,829,435,windows;mac
+100608,Iron Frontier,2016-05-18,Eternal Chronicles 7 Studio,Raw Fury,Adventure,True,8.71,107,31,138,1495,1049,windows
+100609,Iron Horizon,2022-05-15,Broken Kingdom Studio,505 Games,Indie,True,3.92,45,6,51,929,332,windows;mac;linux
+100610,Eternal Wanderer,2022-12-20,Focus Entertainment,Paradox Interactive,Action,False,18.57,87,112,199,1574,1162,windows;mac
+100611,Broken Odyssey,2021-11-04,Void Odyssey Studio,Raw Fury,RPG,True,10.53,649,194,843,5848,3535,windows;mac
+100612,Crimson Uprising,2009-08-23,Frozen Requiem Studio,Ubisoft,Strategy,True,11.01,335,58,393,3536,1666,windows;linux
+100613,Frozen Kingdom,2013-12-18,Neon Citadel Studio,Indie Collective,Indie,True,5.04,155,13,168,939,669,windows;mac;linux
+100614,Golden Odyssey,2016-02-06,Valve,Valve,Action,False,22.92,1763,2146,3909,483,381,windows;mac
+100615,Ashen Descent,2025-08-08,Ashen Legacy Studio,Annapurna Interactive,Action,True,10.67,337,31,368,1905,861,windows;mac
+100616,Eternal Sanctuary,2014-06-19,Silent Protocol Studio,505 Games,Action,True,7.81,34,35,69,1356,984,windows;linux
+100617,Shadow Frontier 2,2018-05-05,Neon Requiem Studio,505 Games,Indie,True,5.88,49,7,56,421,271,windows;mac
+100618,Ashen Protocol,2020-05-25,Rogue Colony Studio,Solo Studio,Indie,True,0.0,343,67,410,836,353,windows;mac
+100619,Void Descent,2020-07-20,Devolver Digital,Private Division,Simulation,False,22.92,71,26,97,2670,1217,windows
+100620,Rogue Wanderer,2013-06-06,Silent Colony Studio,Square Enix,Indie,True,4.01,92,9,101,616,321,windows;mac
+100621,Lost Chronicles,2016-01-09,Rogue Colony 6 Studio,EA,Sports,True,17.43,811,277,1088,1577,1075,windows
+100622,Frozen Wanderer,2019-02-28,505 Games,Focus Entertainment,Casual,False,11.34,1797,909,2706,447,322,windows
+100623,Neon Frontier,2018-11-12,Crimson Protocol Studio,Square Enix,Indie,True,4.04,558,136,694,1147,394,windows
+100624,Rusty Reckoning,2024-07-23,Raw Fury,Square Enix,Adventure,False,14.17,550,263,813,471,242,windows
+100625,Ashen Reckoning,2021-12-17,Team17,Paradox Interactive,Action,False,38.33,1441,353,1794,1609,629,windows
+100626,Shadow Protocol,2019-01-22,Silent Odyssey 4 Studio,Valve,Indie,True,4.46,201,41,242,934,636,windows
+100627,Frozen Chronicles 5,2023-04-19,Focus Entertainment,Valve,Action,False,29.68,11332,3359,14691,2000,1549,windows;linux
+100628,Neon Colony 6,2017-11-28,Iron Legacy Studio,Solo Studio,RPG,True,8.83,463,111,574,4142,3009,windows
+100629,Rusty Reckoning,2021-02-13,EA,Private Division,Adventure,False,15.68,477,335,812,753,486,windows
+100630,Ashen Chronicles,2014-02-23,Iron Chronicles Studio,Team17,Indie,True,4.55,141,43,184,1108,738,windows
+100631,Rogue Citadel,2020-06-25,Indie Collective,Indie Collective,RPG,False,25.36,8586,1944,10530,4006,1717,windows;mac;linux
+100632,Crimson Frontier,2016-08-26,Raw Fury,Paradox Interactive,Adventure,False,12.12,24774,7130,31904,716,216,windows
+100633,Ashen Kingdom,2013-03-06,Team17,Focus Entertainment,Strategy,False,27.98,30933,20156,51089,3377,1317,windows
+100634,Silent Chronicles,2024-06-09,Neon Requiem Studio,Devolver Digital,Sports,True,13.4,1030,102,1132,1761,600,windows;mac
+100635,Neon Colony,2018-07-20,Silent Colony Studio,Valve,Indie,True,4.26,158,66,224,651,309,windows;linux
+100636,Golden Reckoning,2025-08-10,Annapurna Interactive,505 Games,RPG,False,24.43,1129,229,1358,5209,2876,windows;mac
+100637,Ashen Frontier,2022-10-27,Silent Uprising Studio,Raw Fury,Indie,True,4.76,506,212,718,819,504,windows;mac;linux
+100638,Silent Citadel,2023-02-16,505 Games,Private Division,Action,False,21.34,8529,555,9084,1672,1117,windows;mac
+100639,Rusty Uprising,2023-12-21,Private Division,Ubisoft,Action,False,0.0,17487,2685,20172,1914,703,windows
+100640,Silent Reckoning,2017-01-14,Rusty Protocol Studio,Valve,Strategy,True,9.43,568,55,623,2492,1301,windows
+100641,Void Descent,2018-01-06,Lost Descent Studio,505 Games,Sports,True,11.34,567,380,947,446,237,windows
+100642,Crimson Protocol,2020-01-23,Focus Entertainment,EA,RPG,False,39.81,643,112,755,2653,1109,windows
+100643,Golden Requiem,2020-04-19,Iron Legacy Studio,EA,Indie,True,4.27,137,147,284,641,504,windows;mac
+100644,Dark Citadel,2024-06-02,Dark Wanderer 1 Studio,Private Division,Sports,True,19.44,486,140,626,856,505,windows
+100645,Iron Horizon,2015-05-14,Golden Uprising Studio,Devolver Digital,Casual,True,4.12,262,36,298,473,312,windows
+100646,Neon Descent,2010-08-08,Rusty Chronicles Studio,Square Enix,Adventure,True,5.48,157,34,191,746,412,windows;mac;linux
+100647,Golden Chronicles,2008-10-25,Ashen Descent Studio,Ubisoft,RPG,True,13.48,478,94,572,2177,812,windows;linux
+100648,Rusty Wanderer,2017-12-25,Indie Collective,Indie Collective,Strategy,False,0.0,10007,2804,12811,2630,874,windows;mac
+100649,Lost Sanctuary,2019-09-15,,505 Games,Action,False,14.84,477,117,594,1573,1203,windows
+100650,Crimson Descent,2022-07-05,Golden Reckoning Studio,Paradox Interactive,Simulation,True,7.48,79,35,114,3306,1926,windows;mac
+100651,Dark Kingdom,2024-11-06,Broken Frontier Studio,Square Enix,Strategy,True,8.21,1059,256,1315,4430,1559,windows;linux
+100652,Void Citadel,2019-11-22,Shadow Protocol Studio,Square Enix,Indie,True,5.98,79,136,215,566,268,windows;linux
+100653,Crimson Protocol,2010-02-09,Devolver Digital,Raw Fury,Strategy,False,22.1,1785,575,2360,3334,1928,windows
+100654,Broken Legacy,2012-08-17,505 Games,Valve,Action,False,26.83,10474,991,11465,768,490,windows;mac
+100655,Frozen Odyssey,2017-10-13,Void Wanderer Studio,Raw Fury,Adventure,True,7.0,106,81,187,1194,935,windows;mac;linux
+100656,Lost Citadel,2011-10-20,Focus Entertainment,Team17,Strategy,False,20.32,2238,365,2603,3142,2208,windows
+100657,Shadow Frontier,2024-10-01,Rogue Uprising Studio,Annapurna Interactive,Indie,True,5.38,54,23,77,786,375,windows
+100658,Lost Citadel,2021-03-12,Indie Collective,EA,Adventure,False,20.15,1778,1134,2912,724,357,windows;mac;linux
+100659,Neon Odyssey,2018-06-04,Rogue Sanctuary Studio,Raw Fury,Action,True,8.46,120,526,646,83,65,windows;linux
+100660,Rusty Requiem 3,2015-10-09,Team17,Indie Collective,RPG,False,23.28,369,434,803,1907,1469,windows;linux
+100661,Broken Colony,2021-01-19,Focus Entertainment,Raw Fury,Simulation,False,0.0,1103,19,1122,4820,3840,windows
+100662,Void Odyssey,2014-04-22,Team17,EA,Adventure,False,20.2,5340,1010,6350,862,595,windows
+100663,Frozen Uprising,2024-06-10,Devolver Digital,Raw Fury,Strategy,False,26.06,896,616,1512,3572,2032,windows
+100664,Eternal Frontier 7,2021-07-25,Devolver Digital,Ubisoft,Sports,False,30.05,13141,2275,15416,640,258,windows;mac;linux
+100665,Golden Kingdom,2010-06-27,,Square Enix,Action,False,20.23,939,512,1451,1401,729,windows
+100666,Broken Kingdom,2021-01-21,Lost Protocol Studio,Private Division,Simulation,True,8.37,298,159,457,2475,1179,windows;linux
+100667,Dark Sanctuary,2013-02-18,Broken Kingdom Studio,Solo Studio,RPG,True,14.39,46,11,57,5806,4165,windows
+100668,Rogue Reckoning,2019-07-16,Frozen Chronicles Studio,Indie Collective,Indie,True,5.1,1744,1053,2797,972,746,windows;mac
+100669,Lost Descent,2018-09-28,Neon Legacy Studio,Team17,Indie,True,5.14,21,70,91,5,2,windows
+100670,Silent Wanderer,2018-02-19,Crimson Kingdom Studio,Paradox Interactive,Free to Play,True,0.0,103,1562,1665,100,64,windows
+100671,Shadow Kingdom,2019-03-04,Ubisoft,Focus Entertainment,Action,False,25.48,3111,1520,4631,692,314,windows
+100672,Crimson Descent,2022-03-26,Rusty Sanctuary Studio,Raw Fury,Indie,True,6.4,58,233,291,428,268,windows;mac;linux
+100673,Lost Descent,2018-10-17,Void Reckoning Studio,Valve,Sports,True,16.63,19,15,34,1608,640,windows;linux
+100674,Frozen Wanderer,2020-09-08,Eternal Wanderer Studio,Valve,Casual,True,3.39,44,2,46,360,119,windows;mac;linux
+100675,Neon Descent,2024-09-21,Paradox Interactive,Valve,RPG,False,41.83,517,1351,1868,2252,1014,windows;mac
+100676,Silent Colony,2024-01-24,Solo Studio,Annapurna Interactive,Action,False,33.37,1099,630,1729,1213,514,windows
+100677,Crimson Horizon,2012-08-26,Paradox Interactive,EA,Casual,False,6.51,8428,9595,18023,355,127,windows;mac;linux
+100678,Crimson Sanctuary,2018-03-03,Shadow Colony Studio,Team17,Indie,True,4.69,260,125,385,543,256,windows;linux
+100679,Golden Odyssey,2023-12-05,Shadow Colony Studio,Paradox Interactive,Indie,True,4.49,148,29,177,929,415,windows
+100680,Void Wanderer,2016-05-23,,Devolver Digital,Indie,True,3.9,78,70,148,638,407,windows
+100681,Crimson Kingdom,2019-03-09,Frozen Reckoning Studio,Solo Studio,Strategy,True,11.18,1395,217,1612,3574,1776,windows
+100682,Broken Horizon,2021-12-18,Paradox Interactive,Devolver Digital,Simulation,False,19.67,165,49,214,2672,1688,windows;mac;linux
+100683,Rogue Legacy,2023-04-15,Silent Colony Studio,Team17,Indie,True,4.1,9237,1621,10858,788,324,windows;mac
+100684,Eternal Protocol,2016-12-26,Raw Fury,Solo Studio,RPG,False,31.68,414,216,630,2797,2215,windows
+100685,Golden Kingdom,2024-04-25,Iron Odyssey Studio,Solo Studio,Simulation,True,9.66,279,52,331,3815,1949,windows
+100686,Void Kingdom,2019-01-02,Solo Studio,Private Division,Strategy,False,29.95,1557,652,2209,1576,1090,windows
+100687,Golden Reckoning,2020-12-10,Frozen Frontier Studio,Solo Studio,RPG,True,14.92,858,106,964,4768,1457,windows
+100688,Golden Colony,2014-10-03,,Devolver Digital,RPG,False,28.12,884,1015,1899,4070,1843,windows
+100689,Iron Chronicles,2016-02-02,Golden Descent Studio,Raw Fury,Sports,True,12.84,406,33,439,2534,1766,windows
+100690,Shadow Frontier,2016-10-17,Focus Entertainment,Raw Fury,Action,False,26.36,775,303,1078,1859,1095,windows;mac
+100691,Iron Horizon 6,2021-11-28,Ashen Colony Studio,Focus Entertainment,Sports,True,14.91,1379,518,1897,600,230,windows
+100692,Ashen Odyssey,2016-02-10,Lost Requiem Studio,Valve,Strategy,True,9.15,77,10,87,1132,777,windows;linux
+100693,Neon Legacy,2022-04-05,Devolver Digital,505 Games,RPG,False,28.71,3760,413,4173,1959,1037,windows
+100694,Void Odyssey,2023-11-03,Paradox Interactive,Raw Fury,Adventure,False,17.39,7504,887,8391,1008,743,windows
+100695,Frozen Reckoning,2013-07-09,Paradox Interactive,Valve,RPG,False,47.56,971,296,1267,4619,2821,windows
+100696,Ashen Protocol,2020-05-21,Focus Entertainment,Private Division,Sports,False,33.37,24305,6493,30798,1521,1094,windows;mac
+100697,Shadow Uprising,2017-04-18,EA,EA,RPG,False,29.04,238,29,267,3141,1874,windows
+100698,Neon Descent,2022-04-11,Shadow Wanderer Studio,Annapurna Interactive,Racing,True,10.09,459,158,617,1125,508,windows
+100699,Iron Colony,2019-08-23,Shadow Descent Studio,EA,Action,True,0.0,68,18,86,481,317,windows;mac;linux
+100700,Crimson Requiem,2020-03-17,Crimson Uprising Studio,Paradox Interactive,Indie,True,4.58,57,42,99,600,429,windows
+100701,Shadow Chronicles,2019-08-13,Private Division,Ubisoft,Action,False,30.99,7044,1832,8876,1186,639,windows
+100702,Rogue Legacy,2024-07-25,505 Games,Focus Entertainment,Casual,False,10.5,82,27,109,190,118,windows
+100703,Rusty Requiem,2022-12-12,505 Games,Private Division,Adventure,False,17.25,897,84,981,916,730,windows
+100704,Shadow Citadel 5,2021-01-17,Annapurna Interactive,Valve,Strategy,False,32.84,1870,439,2309,1569,633,windows;mac;linux
+100705,Ashen Colony,2023-10-28,EA,Square Enix,Sports,False,57.14,2550,1666,4216,1848,1363,windows;mac;linux
+100706,Void Requiem 7,2023-02-09,Crimson Legacy Studio,Annapurna Interactive,Strategy,True,8.21,840,751,1591,4093,1775,windows;linux
+100707,Ashen Horizon,2016-02-21,Focus Entertainment,Team17,Free to Play,False,0.0,3,1,4,804,428,windows;mac
+100708,Iron Protocol,2025-09-26,,Annapurna Interactive,Action,False,33.21,1780,545,2325,1836,887,windows;mac
+100709,Iron Chronicles,2018-04-15,Void Citadel Studio,Ubisoft,Indie,True,5.68,9974,1275,11249,1289,974,windows
+100710,Iron Requiem,2017-01-28,Ubisoft,Team17,Strategy,False,34.27,179,26,205,3130,1528,windows
+100711,Silent Chronicles,2021-02-11,Focus Entertainment,Ubisoft,Strategy,False,35.74,20565,27624,48189,2645,1151,windows
+100712,Rogue Sanctuary,2022-05-10,Rogue Horizon Studio,Annapurna Interactive,Action,True,7.04,47,14,61,1838,901,windows;linux
+100713,Dark Frontier,2025-07-25,Lost Legacy Studio,Valve,Indie,True,4.46,3165,1831,4996,186,93,windows
+100714,Shadow Protocol,2020-04-18,Ashen Descent Studio,Square Enix,Adventure,True,9.47,83,37,120,1400,925,windows;linux
+100715,Broken Citadel,2023-05-16,,505 Games,Adventure,True,9.01,534,153,687,691,346,windows;mac;linux
+100716,Ashen Reckoning,2022-11-03,Focus Entertainment,Annapurna Interactive,Adventure,False,17.89,61417,18181,79598,1632,889,windows;mac;linux
+100717,Lost Chronicles,2018-06-05,Team17,Ubisoft,Adventure,False,13.55,1222,794,2016,1013,400,windows;linux
+100718,Frozen Colony,2024-03-04,Team17,Devolver Digital,Casual,False,12.79,108,20,128,444,328,windows;mac
+100719,Frozen Requiem 6,2025-01-02,Ashen Colony Studio,EA,Indie,True,6.41,29,11,40,1005,525,windows
+100720,Lost Uprising,2021-01-20,Rusty Chronicles Studio,Square Enix,Simulation,True,8.99,7,25,32,919,662,windows
+100721,Rusty Sanctuary,2020-09-20,Private Division,505 Games,Simulation,False,34.11,16609,5805,22414,3409,1329,windows;mac
+100722,Silent Reckoning,2019-06-25,Golden Citadel Studio,Private Division,Adventure,True,7.12,917,307,1224,1243,967,windows
+100723,Silent Requiem,2019-12-11,Dark Odyssey Studio,Indie Collective,Indie,True,3.6,127,33,160,1313,741,windows;mac;linux
+100724,Crimson Requiem,2025-12-06,Iron Legacy Studio,Indie Collective,RPG,True,10.49,180,24,204,5840,3000,windows
+100725,Rusty Odyssey,2024-11-28,Shadow Legacy Studio,Devolver Digital,Indie,True,0.0,1451,245,1696,781,610,windows
+100726,Dark Uprising,2024-03-26,Frozen Odyssey Studio,Raw Fury,RPG,True,15.74,2169,1903,4072,3521,2140,windows;mac
+100727,Neon Horizon,2020-05-12,Neon Citadel Studio,Paradox Interactive,Action,True,9.0,55,17,72,1905,697,windows
+100728,Lost Frontier,2018-10-18,Valve,Square Enix,Strategy,False,29.95,1747,240,1987,5548,2811,windows;linux
+100729,Crimson Wanderer,2013-07-14,Golden Descent Studio,Annapurna Interactive,Sports,True,14.08,61,424,485,1537,625,windows;mac
+100730,Shadow Citadel,2023-05-01,Solo Studio,Private Division,Strategy,False,22.93,5662,737,6399,4015,2429,windows
+100731,Dark Horizon,2024-03-10,Shadow Requiem Studio,Private Division,Action,True,7.12,8,60,68,1157,636,windows;mac;linux
+100732,Void Descent,2024-11-08,Square Enix,Private Division,Strategy,False,40.3,2578,324,2902,5444,3460,windows
+100733,Frozen Reckoning,2021-08-28,Focus Entertainment,Indie Collective,Sports,False,42.42,159,75,234,1617,1264,windows;linux
+100734,Rogue Kingdom,2021-03-08,Silent Odyssey Studio,Valve,Action,True,12.47,315,102,417,2237,1655,windows
+100735,Shadow Descent,2019-10-23,Neon Kingdom Studio,505 Games,Action,True,0.0,232,50,282,1159,926,windows
+100736,Broken Horizon,2025-08-10,Rogue Horizon Studio,Square Enix,Indie,True,4.22,176,51,227,753,347,windows;mac;linux
+100737,Rusty Reckoning,2019-09-26,Golden Reckoning Studio,Raw Fury,Indie,True,6.44,253,32,285,417,275,windows;linux
+100738,Eternal Citadel,2022-09-28,Silent Odyssey Studio,Indie Collective,Indie,True,3.53,193,32,225,1063,395,windows;linux
+100739,Neon Uprising,2022-09-14,Annapurna Interactive,Devolver Digital,Action,False,15.25,1057,1394,2451,1290,801,windows;mac
+100740,Rogue Odyssey 6,2024-09-28,Dark Protocol Studio,EA,Sports,True,15.88,54,2,56,2075,985,windows;mac;linux
+100741,Void Sanctuary,2014-07-01,Dark Descent Studio,Ubisoft,Adventure,True,7.31,24,10,34,812,295,windows;linux
+100742,Frozen Legacy,2023-09-05,Crimson Chronicles Studio,Devolver Digital,Sports,True,18.74,51,10,61,2263,1201,windows;mac
+100743,Lost Reckoning,2020-01-19,Void Requiem Studio,Raw Fury,Action,True,8.07,153,42,195,931,295,windows;mac
+100744,Dark Citadel,2025-08-02,Square Enix,Indie Collective,Strategy,False,27.15,852,522,1374,4044,2804,windows
+100745,Silent Odyssey,2020-06-27,,Raw Fury,Sports,False,37.3,1409,568,1977,1632,834,windows
+100746,Shadow Wanderer,2012-07-27,Silent Protocol Studio,Raw Fury,Indie,True,4.07,173,40,213,1067,728,windows;mac
+100747,Frozen Kingdom,2024-08-01,Broken Legacy Studio,Solo Studio,Simulation,True,9.49,210,58,268,2822,1528,windows
+100748,Dark Kingdom,2020-09-08,Team17,Focus Entertainment,Action,False,18.35,16690,4708,21398,1784,1375,windows
+100749,Crimson Kingdom 1,2020-05-22,Broken Kingdom Studio,Indie Collective,Indie,True,6.04,82,61,143,651,324,windows
+100750,Void Protocol,2021-08-02,Broken Descent Studio,Indie Collective,Indie,True,4.0,95,2,97,851,618,windows
+100751,Frozen Sanctuary,2018-12-05,Broken Protocol Studio,EA,Indie,True,3.95,170,32,202,1184,696,windows;linux
+100752,Eternal Descent,2013-02-03,Ashen Protocol Studio,Valve,Strategy,True,13.44,1688,792,2480,3715,2738,windows
+100753,Broken Wanderer,2019-11-10,Iron Colony Studio,Team17,Indie,True,5.42,560,211,771,845,266,windows
+100754,Rogue Citadel,2017-01-03,Square Enix,Devolver Digital,Adventure,False,20.17,29004,2218,31222,1325,415,windows
+100755,Void Horizon,2015-10-08,Devolver Digital,EA,RPG,False,21.39,2195,343,2538,3123,2071,windows
+100756,Golden Requiem,2014-11-02,Neon Wanderer Studio,Annapurna Interactive,Indie,True,,1024,210,1234,620,319,windows;mac
+100757,Crimson Protocol,2022-04-27,Raw Fury,Focus Entertainment,Casual,False,0.0,5727,289,6016,465,173,windows
+100758,Dark Reckoning,2024-10-07,Void Odyssey Studio,Square Enix,RPG,True,9.52,236,49,285,3489,1817,windows;mac;linux
+100759,Rogue Colony,2010-06-21,Eternal Chronicles Studio,Annapurna Interactive,Indie,True,6.06,1564,210,1774,427,269,windows
+100760,Broken Wanderer,2019-03-26,Team17,Private Division,Action,False,0.0,1429,822,2251,1734,813,windows;linux
+100761,Shadow Descent,2024-02-23,Ubisoft,Square Enix,Adventure,False,27.11,54,59,113,324,228,windows
+100762,Crimson Sanctuary,2021-01-03,EA,505 Games,Action,False,30.12,624,976,1600,1759,656,windows
+100763,Frozen Reckoning 1,2021-03-27,Dark Wanderer Studio,Paradox Interactive,RPG,True,14.08,42,407,449,2865,2076,windows;linux
+100764,Neon Sanctuary,2019-04-12,Crimson Requiem 2 Studio,Annapurna Interactive,Adventure,True,6.47,353,47,400,866,442,windows;mac;linux
+100765,Ashen Chronicles,2023-05-12,Broken Horizon Studio,Solo Studio,RPG,True,12.95,271120,45929,317049,5364,1703,windows
+100766,Rogue Wanderer 4,2021-03-05,Void Horizon Studio,EA,Indie,True,3.85,69,38,107,378,239,windows
+100767,Golden Colony,2021-03-07,Dark Colony Studio,Ubisoft,Casual,True,0.0,38,1043,1081,101,46,windows;mac;linux
+100768,Eternal Reckoning,2018-11-18,Private Division,Ubisoft,Action,False,24.01,23305,10369,33674,2899,1848,windows
+100769,Lost Reckoning,2022-06-19,Square Enix,Focus Entertainment,Action,False,25.63,1371,283,1654,1707,734,windows
+100770,Lost Odyssey,2021-11-23,Solo Studio,Raw Fury,RPG,False,30.7,3630,2511,6141,2948,2162,windows
+100771,Void Sanctuary,2018-01-06,Golden Reckoning Studio,Paradox Interactive,Action,True,9.91,5,82,87,262,159,windows;mac;linux
+100772,Frozen Legacy,2016-12-21,Focus Entertainment,Devolver Digital,Action,False,24.67,1870,1186,3056,1725,679,windows
+100773,Void Uprising,2017-03-07,Dark Citadel Studio,Focus Entertainment,Action,True,11.03,174,109,283,633,321,windows
+100774,Frozen Kingdom,2012-12-26,Indie Collective,Team17,Strategy,False,22.29,205,23,228,2160,664,windows
+100775,Broken Sanctuary,2020-11-20,Crimson Citadel Studio,Annapurna Interactive,Indie,True,5.05,1206,128,1334,707,528,windows
+100776,Void Colony 7,2020-04-26,Dark Colony Studio,Raw Fury,Indie,True,6.15,1942,1024,2966,784,256,windows
+100777,Ashen Horizon,2017-12-04,,Annapurna Interactive,Indie,True,6.19,933,210,1143,269,143,windows
+100778,Void Sanctuary,2017-12-17,Shadow Colony Studio,Valve,Indie,True,4.65,47,27,74,219,81,windows;mac
+100779,Iron Sanctuary,2008-03-28,Devolver Digital,EA,Adventure,False,15.99,20,108,128,897,367,windows
+100780,Frozen Requiem,2022-06-08,Rogue Citadel Studio,Solo Studio,RPG,True,15.54,529,327,856,3477,1407,windows
+100781,Eternal Uprising,2011-03-23,Devolver Digital,Devolver Digital,RPG,False,28.88,131,62,193,3358,1901,windows;mac;linux
+100782,Neon Sanctuary,2014-02-02,Crimson Horizon Studio,Devolver Digital,Action,True,11.95,71,102,173,1400,709,windows
+100783,Broken Protocol,2025-05-24,Team17,Focus Entertainment,RPG,False,45.77,6837,477,7314,6300,2736,windows;mac
+100784,Rogue Legacy,2014-04-18,Focus Entertainment,Indie Collective,Action,False,,6237,2449,8686,1787,631,windows
+100785,Ashen Protocol 2,2016-08-11,Dark Descent Studio,EA,Indie,True,5.9,988,44,1032,943,565,windows;mac;linux
+100786,Eternal Protocol,2021-03-13,Frozen Citadel Studio,Square Enix,Racing,True,10.38,270,14,284,1590,695,windows;linux
+100787,Eternal Wanderer 4,2022-01-06,Shadow Frontier Studio,EA,Adventure,True,8.85,3,30,33,425,201,windows
+100788,Lost Uprising,2020-09-27,Raw Fury,Ubisoft,Adventure,False,15.32,1388,1161,2549,1347,544,windows;mac;linux
+100789,Rogue Uprising,2019-10-18,Frozen Kingdom Studio,Square Enix,Strategy,True,13.09,806,234,1040,3942,1665,windows
+100790,Void Legacy,2020-04-22,505 Games,Focus Entertainment,Action,False,21.2,23378,5427,28805,1978,1265,windows;linux
+100791,Neon Legacy 1,2022-08-16,Rogue Kingdom Studio,Annapurna Interactive,RPG,True,10.57,588,173,761,4548,3206,windows;mac
+100792,Iron Horizon,2024-05-24,Ashen Kingdom Studio,Devolver Digital,Simulation,True,8.1,912,85,997,2871,2262,windows;linux
+100793,Broken Kingdom,2021-12-03,Indie Collective,Private Division,Simulation,False,14.85,818,643,1461,1996,1081,windows;mac;linux
+100794,Rogue Reckoning,2018-07-19,Focus Entertainment,Valve,Strategy,False,46.11,479,84,563,2758,993,windows;mac
+100795,Rusty Uprising,2020-07-03,Void Horizon Studio,Team17,RPG,True,12.6,153,114,267,5437,3554,windows
+100796,Silent Protocol,2024-07-28,Lost Colony Studio,Paradox Interactive,Indie,True,0.0,1634,464,2098,1112,373,windows
+100797,Shadow Descent,2009-08-10,Rogue Kingdom Studio,Devolver Digital,Indie,True,4.49,710,344,1054,845,543,windows;linux
+100798,Void Frontier,2023-09-19,Ubisoft,EA,Adventure,False,10.05,1019,79,1098,1332,719,windows
+100799,Void Colony,2021-08-11,Golden Wanderer Studio,505 Games,Indie,True,5.34,203,46,249,518,162,windows;mac;linux
+100800,Void Legacy,2013-08-27,Solo Studio,Raw Fury,Adventure,False,15.04,73,34,107,1673,1255,windows
+100801,Frozen Colony,2019-09-25,Neon Descent Studio,505 Games,Indie,True,5.46,175,22,197,356,124,windows;mac;linux
+100802,Dark Sanctuary 5,2017-12-11,Frozen Frontier Studio,Paradox Interactive,Simulation,True,10.51,530,241,771,2452,1154,windows
+100803,Shadow Requiem,2023-03-01,Ashen Descent Studio,Team17,Adventure,True,8.94,33,14,47,1113,482,windows;mac;linux
+100804,Shadow Odyssey,2013-03-08,Golden Colony Studio,Indie Collective,Casual,True,3.75,882,169,1051,527,178,windows;linux
+100805,Eternal Frontier,2017-07-21,Paradox Interactive,EA,Action,False,17.55,99,29,128,1363,562,windows;mac;linux
+100806,Iron Descent,2023-05-16,Silent Legacy Studio,Private Division,Indie,True,,504,281,785,671,434,windows
+100807,Golden Chronicles,2010-12-06,Lost Requiem Studio,Devolver Digital,Casual,True,3.93,31,7,38,277,217,windows
+100808,Shadow Sanctuary,2019-09-19,Iron Uprising Studio,Square Enix,Indie,True,4.59,278,22,300,1228,584,windows
+100809,Iron Legacy,2025-09-06,Solo Studio,Raw Fury,Action,False,35.96,843,1663,2506,934,668,windows
+100810,Broken Chronicles,2020-04-01,Frozen Citadel Studio,Ubisoft,Indie,True,6.38,292,117,409,493,369,windows;linux
+100811,Lost Uprising,2023-09-25,Focus Entertainment,Valve,Racing,False,20.45,1456,446,1902,805,253,windows
+100812,Rusty Kingdom,2018-04-03,,Square Enix,RPG,False,19.46,97353,402647,500000,1982,626,windows
+100813,Golden Citadel,2022-05-17,Crimson Sanctuary Studio,EA,Indie,True,4.42,206,37,243,982,707,windows
+100814,Frozen Wanderer,2023-05-16,505 Games,Square Enix,Free to Play,False,0.0,29356,3558,32914,2052,1016,windows
+100815,Iron Sanctuary,2024-09-07,EA,Indie Collective,Action,False,25.84,1749,1863,3612,889,376,windows
+100816,Rusty Citadel 5,2017-02-03,Focus Entertainment,Team17,Adventure,False,29.37,101,43,144,5,3,windows;linux
+100817,Crimson Citadel,2024-11-21,Eternal Odyssey 6 Studio,Team17,Indie,True,5.55,483,2384,2867,241,93,windows;linux
+100818,Rogue Uprising,2016-08-09,505 Games,Solo Studio,RPG,False,27.74,1800,471,2271,3951,2641,windows
+100819,Frozen Odyssey,2021-01-17,Solo Studio,Devolver Digital,RPG,False,26.97,470,423,893,5162,3898,windows;mac;linux
+100820,Golden Odyssey,2023-06-14,Rusty Colony Studio,Devolver Digital,Free to Play,True,0.0,527,39,566,2986,1694,windows;mac;linux
+100821,Frozen Colony,2014-09-18,Dark Reckoning Studio,Paradox Interactive,Adventure,True,5.64,1414,85,1499,1143,722,windows;mac;linux
+100822,Shadow Sanctuary,2014-03-05,Solo Studio,Ubisoft,Action,False,34.52,346,37,383,1221,679,windows
+100823,Rogue Protocol,2019-05-22,,Indie Collective,Indie,True,3.97,1705,601,2306,1027,757,windows;linux
+100824,Lost Odyssey,2013-12-14,Devolver Digital,Indie Collective,Strategy,False,33.79,2339,728,3067,3107,1703,windows;mac
+100825,Silent Wanderer,2024-10-22,Iron Requiem 7 Studio,Indie Collective,Indie,True,5.73,228,4,232,1222,372,windows
+100826,Frozen Kingdom,2020-08-08,Neon Requiem Studio,Raw Fury,Indie,True,0.0,6277,581,6858,1426,651,windows
+100827,Iron Chronicles,2018-04-18,Annapurna Interactive,Valve,Adventure,False,24.89,5586,1109,6695,539,393,windows
+100828,Dark Odyssey,2020-05-27,Frozen Reckoning Studio,Raw Fury,Indie,True,6.21,668,274,942,896,523,windows;mac
+100829,Neon Descent,2023-06-04,Neon Odyssey Studio,505 Games,Indie,True,3.96,1616,728,2344,1115,577,windows;mac
+100830,Golden Requiem,2014-06-03,Ashen Requiem Studio,505 Games,Action,True,11.53,396,166,562,1269,688,windows
+100831,Dark Odyssey 6,2014-10-12,Ubisoft,Team17,RPG,False,40.83,4970,348,5318,4492,2106,windows;mac;linux
+100832,Iron Wanderer,2022-10-28,Silent Kingdom Studio,505 Games,Indie,True,4.57,275,28,303,1324,714,windows;mac;linux
+100833,Silent Wanderer,2024-05-18,Silent Sanctuary Studio,Annapurna Interactive,Indie,True,6.45,139,277,416,617,407,windows
+100834,Rogue Chronicles,2023-12-08,Team17,Devolver Digital,Action,False,21.59,2427,655,3082,2420,1377,windows;mac
+100835,Silent Wanderer,2020-11-27,Dark Uprising Studio,505 Games,Simulation,True,7.16,159,83,242,3137,1199,windows
+100836,Rogue Descent,2024-12-05,Rogue Legacy Studio,Devolver Digital,Indie,True,4.42,245,147,392,326,235,windows
+100837,Shadow Protocol 5,2020-01-10,Iron Reckoning Studio,Ubisoft,Indie,True,5.53,68,34,102,883,331,windows
+100838,Rusty Odyssey,2023-06-12,EA,EA,Simulation,False,0.0,87,39,126,2902,1614,windows
+100839,Void Reckoning,2014-09-04,Rusty Colony Studio,EA,Strategy,True,12.36,80,7,87,5111,3221,windows;mac
+100840,Broken Reckoning,2022-06-19,Focus Entertainment,Team17,Simulation,False,19.23,280,1500,1780,2516,939,windows
+100841,Iron Legacy,2022-05-27,Raw Fury,Indie Collective,RPG,False,47.44,1964,2053,4017,3848,1554,windows
+100842,Rusty Requiem,2022-03-04,Rogue Legacy Studio,Annapurna Interactive,Indie,True,5.71,553,158,711,905,687,windows;mac;linux
+100843,Crimson Kingdom,2019-11-23,505 Games,Indie Collective,RPG,False,33.78,4080,2037,6117,2763,1072,windows;mac;linux
+100844,Eternal Odyssey,2018-12-26,Rogue Odyssey Studio,Raw Fury,Action,True,9.02,1061,186,1247,1941,689,windows;mac
+100845,Rusty Wanderer,2023-05-16,Solo Studio,Private Division,RPG,False,31.42,4387,1296,5683,4161,3211,windows;linux
+100846,Lost Colony,2021-09-03,Private Division,Focus Entertainment,Strategy,False,22.9,9051,2910,11961,2444,1343,windows
+100847,Golden Uprising,2011-06-22,Valve,Raw Fury,Casual,False,8.65,9080,5787,14867,346,188,windows;mac
+100848,Ashen Protocol,2008-01-05,Valve,Raw Fury,Action,False,26.16,12042,3161,15203,2176,1409,windows;mac
+100849,Shadow Reckoning,2016-06-24,EA,Raw Fury,Adventure,False,18.54,2967,321,3288,1989,1161,windows;mac
+100850,Dark Colony,2025-12-20,Private Division,Indie Collective,Casual,False,7.55,3751,478,4229,398,283,windows
+100851,Frozen Wanderer,2018-07-04,Frozen Chronicles 5 Studio,Valve,Indie,True,4.4,3062,737,3799,742,510,windows;mac;linux
+100852,Rusty Chronicles,2023-05-18,Neon Frontier Studio,Square Enix,Strategy,True,8.66,215,31,246,3177,2454,windows;mac
+100853,Lost Odyssey,2016-01-26,Golden Horizon Studio,Private Division,Action,True,10.7,213,32,245,1518,573,windows
+100854,Ashen Requiem,2019-10-04,Private Division,505 Games,Free to Play,False,0.0,88,23,111,2143,1126,windows
+100855,Iron Legacy,2017-11-04,Private Division,Annapurna Interactive,Strategy,False,15.91,1086,795,1881,3183,2380,windows
+100856,Dark Colony,2023-07-19,Ubisoft,Raw Fury,RPG,False,39.54,575,773,1348,1789,700,windows;mac;linux
+100857,Eternal Reckoning,2020-04-22,Neon Odyssey Studio,Focus Entertainment,RPG,True,10.05,297,716,1013,3019,924,windows;linux
+100858,Silent Uprising,2011-05-21,Rusty Colony Studio,Square Enix,Free to Play,True,0.0,326,91,417,3421,1213,windows;mac
+100859,Frozen Horizon,2009-03-27,Indie Collective,Valve,RPG,False,29.3,309,282,591,4001,2141,windows
+100860,Rogue Wanderer,2010-01-22,Valve,Team17,Racing,False,27.23,676,622,1298,770,582,windows;mac
+100861,Dark Colony,2018-06-22,505 Games,Raw Fury,Action,False,24.82,414,211,625,1188,412,windows
+100862,Shadow Descent,2017-01-18,Silent Horizon Studio,Private Division,Indie,True,4.1,695,163,858,863,385,windows
+100863,Iron Legacy,2020-12-27,Dark Sanctuary Studio,Paradox Interactive,Action,True,11.74,13572,2111,15683,2799,1240,windows;linux
+100864,Lost Frontier 4,2020-09-15,Square Enix,Indie Collective,Casual,False,9.58,7337,967,8304,387,200,windows
+100865,Lost Odyssey,2019-03-02,Silent Sanctuary Studio,EA,Simulation,True,12.14,647,30,677,4289,2796,windows;linux
+100866,Frozen Legacy,2022-01-06,Golden Horizon Studio,Team17,Action,True,10.55,251,23,274,2490,1209,windows;mac;linux
+100867,Ashen Frontier,2020-04-16,Ashen Citadel Studio,Team17,Indie,True,6.25,1118,551,1669,979,350,windows
+100868,Eternal Odyssey,2019-09-11,Dark Wanderer Studio,Ubisoft,Indie,True,5.32,3018,1209,4227,878,504,windows
+100869,Dark Frontier,2015-04-25,Silent Protocol Studio,Raw Fury,Adventure,True,7.81,222,14,236,900,658,windows;mac;linux
+100870,Ashen Requiem,2016-05-15,Square Enix,Valve,Simulation,False,25.45,350,231,581,2295,1150,windows;linux
+100871,Crimson Requiem,2020-10-17,Private Division,Devolver Digital,Casual,False,9.88,2262,40,2302,555,254,windows
+100872,Shadow Legacy,2016-03-20,Ubisoft,Devolver Digital,RPG,False,30.53,5842,227,6069,6413,3715,windows
+100873,Frozen Frontier,2022-10-21,Indie Collective,Paradox Interactive,Action,False,33.84,1297,1750,3047,1302,976,windows;mac
+100874,Golden Uprising,2025-02-06,EA,Raw Fury,Adventure,False,17.22,399,82,481,1537,1136,windows
+100875,Crimson Wanderer,2016-12-26,505 Games,Team17,Sports,False,46.45,10594,7249,17843,463,163,windows
+100876,Iron Descent,2018-07-07,Dark Odyssey 2 Studio,Indie Collective,Action,True,12.03,30,7,37,1761,729,windows
+100877,Golden Descent,2020-05-15,Rusty Legacy Studio,Valve,Action,True,7.78,261,83,344,1297,889,windows
+100878,Void Legacy,2020-10-12,505 Games,Paradox Interactive,Adventure,False,26.56,14305,14177,28482,798,258,windows;mac
+100879,Lost Descent,2010-08-07,Shadow Horizon Studio,Paradox Interactive,Adventure,True,9.3,17,12,29,1622,685,windows
+100880,Iron Reckoning,2017-12-15,505 Games,Valve,Strategy,False,0.0,1645,134,1779,3598,1647,windows;mac;linux
+100881,Neon Descent,2015-09-05,Annapurna Interactive,Raw Fury,Action,False,,250,368,618,2372,1448,windows;mac;linux
+100882,Rusty Citadel,2018-05-20,Rusty Wanderer Studio,Solo Studio,Indie,True,3.55,1986,353,2339,840,292,windows
+100883,Lost Descent,2016-08-27,Solo Studio,Valve,Action,False,23.81,17456,2822,20278,3137,1571,windows
+100884,Rusty Reckoning,2021-09-21,Devolver Digital,Private Division,Action,False,32.1,121346,15171,136517,2458,1296,windows
+100885,Lost Uprising,2023-07-21,Annapurna Interactive,Solo Studio,RPG,False,30.44,742,2311,3053,3935,1974,windows;mac;linux
+100886,Ashen Requiem,2017-12-05,Focus Entertainment,Focus Entertainment,RPG,False,40.4,698,287,985,2833,1955,windows
+100887,Rogue Colony,2014-05-19,Broken Requiem Studio,Valve,Indie,True,6.14,224,40,264,343,208,windows
+100888,Ashen Chronicles,2021-09-01,Annapurna Interactive,Annapurna Interactive,Action,False,21.09,12197,7034,19231,1176,939,windows
+100889,Dark Legacy,2021-10-26,Devolver Digital,Valve,Strategy,False,19.13,31538,2144,33682,2012,1114,windows
+100890,Dark Reckoning,2021-09-09,Devolver Digital,Private Division,Action,False,34.18,3015,79,3094,2216,1740,windows
+100891,Eternal Reckoning 3,2015-06-26,Paradox Interactive,Solo Studio,Simulation,False,33.39,254,49,303,3370,1874,windows
+100892,Broken Requiem,2016-10-13,Void Protocol Studio,Solo Studio,Strategy,True,12.13,114,91,205,1291,524,windows
+100893,Rogue Wanderer,2022-08-15,Square Enix,Team17,Adventure,False,23.56,1961,440,2401,739,387,windows
+100894,Eternal Wanderer,2021-10-14,Void Colony Studio,EA,Action,True,12.5,333,50,383,1652,1174,windows
+100895,Lost Descent,2020-04-18,Team17,Ubisoft,Sports,False,40.89,1718,232,1950,1631,1054,windows;linux
+100896,Void Horizon,2023-12-13,Shadow Descent Studio,Focus Entertainment,Indie,True,6.29,322,34,356,953,502,windows
+100897,Silent Colony,2017-05-14,Ashen Odyssey Studio,Paradox Interactive,Indie,True,5.83,60,14,74,1034,528,windows;mac
+100898,Neon Odyssey,2016-04-25,Private Division,Team17,Casual,False,7.97,381,544,925,177,96,windows
+100899,Void Sanctuary,2018-08-04,Focus Entertainment,Focus Entertainment,Action,False,0.0,22447,16182,38629,1651,847,windows
+100900,Dark Requiem,2024-12-15,Golden Odyssey Studio,Square Enix,Simulation,True,9.36,38,90,128,652,412,windows
+100901,Rusty Citadel,2022-11-02,Focus Entertainment,505 Games,Adventure,False,14.84,4568,2473,7041,1407,707,windows
+100902,Void Reckoning,2020-10-14,Lost Frontier 7 Studio,Annapurna Interactive,Sports,True,16.24,61,97,158,284,210,windows
+100903,Eternal Kingdom,2022-07-22,Silent Chronicles Studio,Square Enix,Indie,True,6.23,1915,396,2311,758,410,windows
+100904,Rogue Chronicles,2023-01-11,Team17,Solo Studio,Adventure,False,14.08,34067,39313,73380,742,405,windows;linux
+100905,Void Reckoning,2023-03-17,Valve,Team17,Action,False,32.51,1919,1709,3628,248,117,windows;linux
+100906,Rogue Odyssey,2024-01-18,Devolver Digital,Solo Studio,Racing,False,27.16,1371,93,1464,1188,812,windows
+100907,Eternal Reckoning,2020-01-04,EA,Indie Collective,Strategy,False,44.59,9717,9147,18864,1529,1049,windows
+100908,Iron Uprising,2024-04-16,Indie Collective,Focus Entertainment,Casual,False,5.7,2483,482,2965,523,385,windows;linux
+100909,Rogue Odyssey,2010-07-24,Team17,Raw Fury,Strategy,False,38.64,10,4,14,2959,1767,windows
+100910,Ashen Requiem,2024-08-22,EA,Raw Fury,Free to Play,False,0.0,12495,2517,15012,2025,675,windows;linux
+100911,Eternal Chronicles,2016-05-27,Square Enix,EA,Adventure,False,28.16,748,259,1007,1970,1488,windows
+100912,Iron Protocol,2024-08-16,Devolver Digital,Focus Entertainment,Casual,False,9.44,660,127,787,184,56,windows
+100913,Crimson Wanderer,2008-01-25,Valve,EA,Casual,False,9.38,18523,1716,20239,448,215,windows
+100914,Rogue Legacy,2024-09-17,Rusty Sanctuary Studio,Ubisoft,Adventure,True,9.57,962,395,1357,1072,659,windows
+100915,Silent Protocol,2019-12-19,Private Division,Solo Studio,Adventure,False,14.06,1075,489,1564,619,396,windows
+100916,Neon Colony,2022-01-23,Paradox Interactive,Paradox Interactive,Action,False,20.84,1338,345,1683,1257,381,windows
+100917,Frozen Requiem,2020-06-09,Rusty Colony Studio,505 Games,Indie,True,5.4,628,169,797,1437,1053,windows
+100918,Frozen Reckoning,2022-06-28,Void Kingdom Studio,Annapurna Interactive,Indie,True,4.7,1873,245,2118,608,429,windows;mac;linux
+100919,Rusty Reckoning,2011-10-13,Dark Legacy Studio,Focus Entertainment,Indie,True,0.0,442,149,591,758,364,windows;mac;linux
+100920,Lost Kingdom,2017-02-12,Dark Kingdom Studio,Annapurna Interactive,Indie,True,3.62,38,31,69,684,326,windows
+100921,Crimson Frontier 5,2024-02-25,Silent Reckoning Studio,Valve,Strategy,True,12.67,156,14,170,1497,1044,windows
+100922,Neon Reckoning,2023-06-18,Frozen Colony Studio,505 Games,Indie,True,5.58,462,416,878,151,58,windows;mac
+100923,Neon Uprising,2020-09-06,Rogue Protocol Studio,Square Enix,Indie,True,6.1,147,98,245,1163,616,windows
+100924,Silent Wanderer 1,2015-05-11,Eternal Wanderer Studio,505 Games,RPG,True,10.53,170,33,203,2723,1334,windows
+100925,Void Protocol,2024-02-10,Ubisoft,505 Games,Casual,False,13.97,459,244,703,337,226,windows;mac
+100926,Eternal Legacy,2018-04-05,Dark Uprising Studio,Indie Collective,Indie,True,4.12,10,82,92,5,3,windows
+100927,Void Odyssey,2017-01-18,Neon Horizon Studio,Ubisoft,Indie,True,4.41,281,157,438,888,592,windows
+100928,Eternal Kingdom,2018-04-12,Private Division,Solo Studio,Simulation,False,14.66,2707,563,3270,2565,1253,windows
+100929,Rogue Wanderer,2019-10-01,Broken Sanctuary Studio,Team17,RPG,True,,551,204,755,2431,1460,windows
+100930,Golden Legacy,2024-10-10,Broken Chronicles Studio,505 Games,Action,True,12.01,1323,74,1397,1803,728,windows
+100931,Rusty Uprising,2009-07-01,Annapurna Interactive,505 Games,Simulation,False,20.41,2723,844,3567,2336,814,windows;linux
+100932,Rusty Legacy,2021-07-25,Valve,Valve,RPG,False,27.12,19762,1749,21511,3309,2361,windows
+100933,Ashen Wanderer,2024-05-18,Eternal Legacy Studio,Square Enix,Indie,True,6.02,366,170,536,487,336,windows
+100934,Golden Wanderer,2020-04-18,505 Games,Valve,Adventure,False,20.18,8548,4435,12983,879,417,windows
+100935,Frozen Horizon,2009-07-03,Crimson Legacy Studio,Valve,Indie,True,4.48,1960,227,2187,1115,731,windows;mac;linux
+100936,Eternal Odyssey,2025-04-16,Paradox Interactive,Focus Entertainment,Racing,False,27.23,3752,3381,7133,1060,386,windows
+100937,Void Legacy,2024-02-03,Iron Colony Studio,Focus Entertainment,RPG,True,15.26,52,20,72,5724,3843,windows;mac
+100938,Dark Descent,2022-03-10,Dark Colony 1 Studio,Ubisoft,Indie,True,3.98,515,202,717,642,427,windows;mac
+100939,Lost Uprising,2020-12-22,Neon Requiem Studio,505 Games,Indie,True,5.33,149,43,192,1055,435,windows;linux
+100940,Eternal Sanctuary 3,2008-05-10,Lost Uprising Studio,Team17,Action,True,8.86,99,65,164,1027,781,windows;mac
+100941,Shadow Frontier,2024-11-17,Focus Entertainment,Paradox Interactive,Simulation,False,24.79,207978,19805,227783,3627,2566,windows;mac
+100942,Neon Legacy,2023-05-25,Silent Odyssey 5 Studio,505 Games,Adventure,True,8.56,1496,249,1745,1460,1163,windows
+100943,Iron Kingdom,2015-08-01,Lost Sanctuary Studio,Private Division,Indie,True,5.5,166,68,234,1196,572,windows
+100944,Neon Legacy,2021-08-02,Dark Descent Studio,Annapurna Interactive,Adventure,True,9.49,723,502,1225,800,566,windows
+100945,Ashen Reckoning,2022-07-27,Frozen Requiem Studio,Ubisoft,Indie,True,3.64,208,38,246,935,594,windows;mac
+100946,Silent Citadel,2016-12-12,Team17,Paradox Interactive,Action,False,29.06,2092,1616,3708,1850,721,windows;linux
+100947,Broken Reckoning,2022-12-07,Golden Citadel Studio,Square Enix,Simulation,True,9.44,653,742,1395,2213,695,windows
+100948,Rusty Uprising,2018-11-10,Shadow Chronicles Studio,Valve,Indie,True,,8489,9872,18361,240,135,windows
+100949,Neon Kingdom,2022-01-25,Lost Uprising Studio,Indie Collective,Indie,True,4.92,827,231,1058,802,368,windows
+100950,Silent Chronicles,2025-07-24,Raw Fury,Solo Studio,Action,False,0.0,645,204,849,1142,876,windows
+100951,Frozen Legacy,2020-01-26,Golden Frontier Studio,Devolver Digital,Indie,True,3.54,611,238,849,919,693,windows;mac;linux
+100952,Void Sanctuary,2020-04-23,Valve,Focus Entertainment,Simulation,False,24.87,4329,522,4851,1541,515,windows
+100953,Dark Protocol,2014-01-09,Golden Odyssey Studio,Square Enix,Indie,True,4.83,1118,139,1257,1203,833,windows;linux
+100954,Shadow Sanctuary,2024-04-22,Neon Horizon 3 Studio,Focus Entertainment,Strategy,True,8.92,157,45,202,4112,1394,windows
+100955,Frozen Reckoning,2019-11-17,Ashen Legacy Studio,Raw Fury,Indie,True,4.54,505,153,658,901,321,windows;mac
+100956,Crimson Frontier 5,2017-12-24,Team17,Ubisoft,RPG,False,35.16,634,414,1048,2377,1617,windows
+100957,Rusty Legacy,2024-09-20,Valve,505 Games,Adventure,False,12.65,3831,1111,4942,756,511,windows;mac
+100958,Iron Citadel,2019-10-04,,Raw Fury,Indie,True,4.44,332,143,475,851,423,windows;mac
+100959,Iron Kingdom,2015-01-05,,Team17,Action,False,23.36,18956,6380,25336,1467,501,windows;mac
+100960,Dark Citadel,2019-03-14,Broken Sanctuary Studio,505 Games,Casual,True,2.5,20,8,28,378,216,windows
+100961,Frozen Odyssey,2009-11-17,Square Enix,Indie Collective,Adventure,False,20.31,19331,2160,21491,1429,908,windows;mac
+100962,Silent Chronicles,2016-03-25,Rogue Wanderer Studio,Private Division,RPG,True,12.23,124,234,358,3876,3075,windows
+100963,Neon Requiem,2019-06-09,Eternal Wanderer Studio,Focus Entertainment,RPG,True,15.05,253,231,484,2801,840,windows
+100964,Broken Wanderer,2025-03-11,Raw Fury,Indie Collective,Adventure,False,21.44,7887,1241,9128,1213,366,windows;mac
+100965,Rogue Reckoning,2016-01-01,Iron Odyssey Studio,Focus Entertainment,RPG,True,11.36,422,249,671,2781,1825,windows
+100966,Rusty Horizon,2022-01-21,EA,Valve,Action,False,21.56,11965,483,12448,351,122,windows;mac
+100967,Rogue Wanderer,2016-04-28,Dark Requiem Studio,Focus Entertainment,Indie,True,3.54,66,16,82,576,388,windows;mac;linux
+100968,Rusty Citadel,2024-04-08,Private Division,Solo Studio,Action,False,32.28,616,407,1023,1467,908,windows;mac;linux
+100969,Eternal Protocol,2023-09-26,Private Division,Ubisoft,Action,False,21.8,3166,1218,4384,1913,828,windows;mac;linux
+100970,Dark Protocol,2021-10-16,Private Division,Devolver Digital,Action,False,20.73,3897,725,4622,1463,733,windows;linux
+100971,Ashen Sanctuary,2022-06-05,Devolver Digital,Solo Studio,RPG,False,29.92,3127,1800,4927,3673,1544,windows
+100972,Ashen Colony 7,2018-09-07,Ubisoft,Raw Fury,Casual,False,5.84,4262,101,4363,599,408,windows;mac;linux
+100973,Ashen Chronicles 1,2021-12-26,Broken Uprising Studio,Devolver Digital,RPG,True,15.05,4186,86,4272,1965,696,windows
+100974,Iron Citadel,2024-03-16,Dark Kingdom 2 Studio,Private Division,Indie,True,5.03,684,402,1086,984,580,windows;mac
+100975,Dark Protocol,2020-03-04,Eternal Odyssey 3 Studio,Annapurna Interactive,Action,True,9.74,316,22,338,3043,1331,windows;mac
+100976,Iron Odyssey,2020-01-06,Lost Descent Studio,Solo Studio,Indie,True,6.14,1436,230,1666,1139,435,windows;mac;linux
+100977,Void Odyssey,2015-10-21,Lost Citadel Studio,EA,Adventure,True,6.64,98,531,629,344,173,windows;linux
+100978,Neon Kingdom,2024-11-18,Valve,Valve,RPG,False,35.24,402,275,677,4073,3250,windows
+100979,Rusty Protocol 7,2021-10-07,Raw Fury,Solo Studio,RPG,False,29.41,752,201,953,7217,3568,windows;mac
+100980,Iron Wanderer,2011-10-28,Indie Collective,EA,Casual,False,9.28,3744,954,4698,429,279,windows
+100981,Silent Requiem,2020-02-16,Indie Collective,505 Games,RPG,False,44.6,636,137,773,2685,1204,windows;mac;linux
+100982,Silent Protocol 3,2013-11-25,Paradox Interactive,Indie Collective,Casual,False,8.72,4881,1197,6078,402,249,windows
+100983,Iron Horizon,2014-06-16,Rusty Uprising Studio,EA,Action,True,8.58,93,87,180,1093,816,windows;mac
+100984,Rogue Wanderer,2013-09-28,Ubisoft,Team17,Simulation,False,26.01,2096,360,2456,4340,2812,windows
+100985,Frozen Protocol,2018-06-22,Ubisoft,Valve,Action,False,30.28,650,99,749,1337,733,windows;mac;linux
+100986,Neon Colony,2025-02-27,Frozen Citadel 7 Studio,Team17,Casual,True,3.55,1432,84,1516,243,101,windows
+100987,Rusty Requiem,2020-10-23,Paradox Interactive,Paradox Interactive,Action,False,0.0,130318,74883,205201,1063,704,windows;mac;linux
+100988,Ashen Odyssey,2022-10-06,Paradox Interactive,Valve,Action,False,0.0,1580,156,1736,2510,1682,windows;mac
+100989,Lost Chronicles,2024-05-23,Shadow Citadel Studio,Solo Studio,Indie,True,0.0,50,5,55,727,532,windows;mac;linux
+100990,Rusty Sanctuary,2012-10-09,Team17,Square Enix,Action,False,19.82,1815,670,2485,1247,397,windows
+100991,Neon Horizon,2021-04-06,Valve,Square Enix,Casual,False,10.79,33,14,47,410,291,windows
+100992,Rogue Requiem,2022-12-18,Valve,Paradox Interactive,Casual,False,11.68,406,166,572,442,348,windows
+100993,Crimson Reckoning,2022-10-09,Raw Fury,Team17,Strategy,False,23.57,991,358,1349,3132,1586,windows;mac
+100994,Eternal Colony,2018-05-04,Square Enix,Solo Studio,RPG,False,37.22,591,408,999,4120,1500,windows;linux
+100995,Iron Frontier,2021-03-05,Team17,Indie Collective,Action,False,24.96,4325,4826,9151,1399,730,windows;linux
+100996,Crimson Descent,2008-07-03,Neon Sanctuary Studio,Annapurna Interactive,Simulation,True,10.2,133,50,183,3199,1488,windows
+100997,Ashen Horizon,2024-03-27,Dark Horizon Studio,505 Games,Action,True,8.81,1174,65,1239,2386,744,windows
+100998,Shadow Kingdom,2025-11-10,Devolver Digital,Square Enix,RPG,False,25.38,1731,874,2605,4448,3012,windows;mac
+100999,Shadow Requiem,2014-03-08,Neon Horizon Studio,Team17,Indie,True,5.6,67,37,104,692,336,windows
+101000,Rogue Requiem,2018-01-13,Dark Reckoning Studio,Indie Collective,RPG,True,9.47,372,144,516,5516,2752,windows
+101001,Neon Requiem,2022-08-04,Indie Collective,Devolver Digital,Action,False,22.23,2479,891,3370,1536,980,windows
+101002,Void Descent,2016-08-09,Rusty Horizon Studio,Paradox Interactive,RPG,True,11.58,910,319,1229,2583,2038,windows;mac;linux
+101003,Frozen Descent,2023-11-27,Eternal Protocol Studio,Indie Collective,RPG,True,12.32,80,8,88,6832,4953,windows;mac
+101004,Broken Chronicles,2016-04-06,Golden Reckoning Studio,Raw Fury,Indie,True,5.65,892,262,1154,1019,555,windows;linux
+101005,Frozen Odyssey,2013-04-21,Private Division,505 Games,RPG,False,42.37,214,118,332,2011,914,windows
+101006,Golden Colony,2022-02-12,Square Enix,Indie Collective,Strategy,False,32.04,191,71,262,3208,2552,windows
+101007,Frozen Colony,2023-08-07,Valve,EA,Action,False,21.26,90406,4485,94891,1761,1075,windows;mac
+101008,Iron Kingdom,2013-08-04,Solo Studio,Devolver Digital,Free to Play,False,0.0,2975,973,3948,2637,1696,windows
+101009,Void Frontier 2,2024-12-24,Rusty Citadel Studio,Solo Studio,RPG,True,13.05,402,275,677,4608,3626,windows;mac
+101010,Broken Citadel,2023-06-26,Silent Sanctuary Studio,Focus Entertainment,Strategy,True,13.27,132,110,242,2944,1893,windows
+101011,Ashen Sanctuary,2011-12-19,Focus Entertainment,Annapurna Interactive,RPG,False,31.7,29370,18295,47665,4088,1727,windows
+101012,Dark Horizon,2024-08-20,Lost Protocol 5 Studio,Team17,Simulation,True,9.52,8,21,29,1775,1291,windows
+101013,Silent Frontier,2020-05-10,Frozen Colony Studio,Annapurna Interactive,Strategy,True,9.91,322,94,416,3097,1087,windows;mac
+101014,Frozen Descent,2022-11-07,Raw Fury,Valve,Action,False,23.01,140,63,203,2083,628,windows
+101015,Ashen Colony,2016-06-28,Ubisoft,EA,RPG,False,0.0,785,2493,3278,860,681,windows;linux
+101016,Neon Colony,2022-02-11,Eternal Horizon Studio,Ubisoft,Indie,True,3.54,117,20,137,1249,985,windows;mac
+101017,Void Kingdom,2018-06-17,Rogue Colony Studio,Raw Fury,Strategy,True,10.85,142,24,166,4690,2191,windows;linux
+101018,Iron Requiem,2022-03-18,Dark Chronicles Studio,Solo Studio,Action,True,8.53,9985,467,10452,1796,544,windows;mac
+101019,Silent Citadel 5,2019-08-08,Valve,505 Games,Action,False,33.89,8891,3004,11895,2000,1014,windows
+101020,Dark Wanderer,2022-11-27,Raw Fury,Ubisoft,Action,False,25.87,1116,102,1218,1752,627,windows
+101021,Void Odyssey,2022-06-01,Shadow Wanderer Studio,Solo Studio,Adventure,True,7.62,1588,341,1929,1043,788,windows;linux
+101022,Rogue Citadel,2010-07-20,Private Division,Annapurna Interactive,RPG,False,33.57,2539,552,3091,5854,4328,windows;mac;linux
+101023,Iron Protocol,2023-09-19,Frozen Wanderer Studio,Indie Collective,Indie,True,5.33,162,59,221,657,230,windows
+101024,Neon Wanderer,2024-02-09,505 Games,Raw Fury,Action,False,14.34,388,142,530,1494,1082,windows;linux
+101025,Frozen Wanderer,2022-01-04,Neon Frontier 4 Studio,Ubisoft,Action,True,8.21,298,59,357,1212,688,windows
+101026,Rusty Protocol,2021-11-15,Indie Collective,Indie Collective,Simulation,False,13.44,11951,1190,13141,4619,3033,windows
+101027,Silent Wanderer,2017-08-14,Rusty Chronicles Studio,505 Games,Indie,True,0.0,218,169,387,675,495,windows;linux
+101028,Lost Descent,2013-06-07,Indie Collective,505 Games,RPG,False,25.29,369,68,437,2908,2166,windows;mac;linux
+101029,Eternal Reckoning,2012-11-11,Neon Wanderer 1 Studio,505 Games,Free to Play,True,0.0,438,240,678,1286,566,windows;linux
+101030,Frozen Wanderer,2025-03-08,Iron Chronicles Studio,Focus Entertainment,Simulation,True,0.0,273,216,489,2205,1522,windows;mac
+101031,Shadow Protocol,2010-02-25,Paradox Interactive,Indie Collective,Adventure,False,19.46,17223,5220,22443,1225,518,windows
+101032,Void Wanderer,2022-04-11,Solo Studio,Ubisoft,Casual,False,4.86,4201,1403,5604,562,311,windows
+101033,Shadow Chronicles,2011-10-21,Indie Collective,Annapurna Interactive,Simulation,False,30.95,3743,235,3978,3250,2405,windows
+101034,Ashen Frontier,2016-02-24,Rogue Chronicles Studio,Raw Fury,Indie,True,4.58,313,179,492,828,570,windows;mac
+101035,Iron Sanctuary,2016-12-27,Ubisoft,505 Games,Action,False,21.38,169689,24058,193747,2276,1052,windows
+101036,Iron Chronicles,2021-10-12,Void Colony 1 Studio,Team17,Racing,True,10.48,1540,193,1733,1283,551,windows;linux
+101037,Golden Protocol,2018-10-15,Raw Fury,Paradox Interactive,Action,False,19.48,26551,3097,29648,2145,1639,windows
+101038,Shadow Kingdom,2019-02-28,Ubisoft,Ubisoft,Simulation,False,0.0,21815,15123,36938,3441,1920,windows
+101039,Rusty Chronicles,2021-05-05,Frozen Descent Studio,Valve,Simulation,True,10.62,425,52,477,2467,1654,windows;mac;linux
+101040,Neon Horizon,2021-07-18,Iron Odyssey Studio,Focus Entertainment,Simulation,True,12.01,45,783,828,1278,687,windows
+101041,Rogue Reckoning,2018-02-02,Golden Kingdom Studio,Raw Fury,Action,True,12.95,91,157,248,1138,871,windows;mac
+101042,Ashen Kingdom 7,2024-06-04,Square Enix,Private Division,Action,False,19.73,5988,873,6861,2808,1702,windows
+101043,Ashen Horizon,2018-09-15,Private Division,Ubisoft,Racing,False,28.02,2268,557,2825,578,353,windows;mac;linux
+101044,Shadow Uprising,2016-01-11,Annapurna Interactive,Ubisoft,Strategy,False,0.0,54732,75623,130355,4317,2756,windows
+101045,Ashen Protocol,2025-09-09,Solo Studio,Raw Fury,Sports,False,39.14,61,14,75,729,328,windows;mac
+101046,Golden Wanderer,2018-07-04,Void Colony Studio,EA,Action,True,10.11,347,216,563,1676,847,windows;linux
+101047,Golden Uprising,2014-07-09,Devolver Digital,Valve,RPG,False,41.61,9799,3956,13755,4013,3194,windows
+101048,Eternal Descent,2019-10-11,Ubisoft,Square Enix,Action,False,31.35,102869,18669,121538,2451,1683,windows
+101049,Iron Sanctuary,2015-12-18,Eternal Chronicles Studio,EA,Action,True,11.16,262,53,315,2118,1587,windows
+101050,Void Odyssey,2023-11-01,Ashen Citadel Studio,Private Division,Casual,True,2.63,293,256,549,346,200,windows;mac
+101051,Lost Kingdom,2017-07-14,Ubisoft,Focus Entertainment,Adventure,False,22.22,44513,9899,54412,666,253,windows
+101052,Neon Uprising,2025-11-18,Private Division,Square Enix,Sports,False,34.3,450,132,582,918,699,windows;mac;linux
+101053,Neon Colony,2017-07-23,Devolver Digital,Focus Entertainment,Strategy,False,31.13,1436,356,1792,3994,2786,windows;mac;linux
+101054,Frozen Kingdom,2019-04-20,Crimson Wanderer Studio,Valve,Action,True,10.99,639,181,820,1361,750,windows
+101055,Rusty Protocol,2014-09-08,Eternal Frontier Studio,Raw Fury,Simulation,True,7.8,10,3,13,1403,701,windows;mac
+101056,Dark Legacy,2010-01-19,Eternal Sanctuary Studio,Valve,Indie,True,4.47,36,108,144,204,125,windows
+101057,Rogue Chronicles 1,2023-08-25,Neon Descent Studio,Valve,Indie,True,0.0,124,6,130,757,545,windows
+101058,Ashen Descent,2024-08-13,Annapurna Interactive,505 Games,RPG,False,31.47,336,124,460,3187,2512,windows
+101059,Rogue Reckoning,2020-10-23,Annapurna Interactive,Square Enix,Sports,False,32.73,236,20,256,1767,609,windows
+101060,Silent Sanctuary,2014-01-21,Broken Chronicles Studio,Annapurna Interactive,Indie,True,5.35,203,75,278,831,659,windows;mac
+101061,Dark Odyssey,2024-06-15,Private Division,Paradox Interactive,Free to Play,False,0.0,396,63,459,2266,843,windows
+101062,Rogue Reckoning,2018-08-28,Devolver Digital,Raw Fury,Simulation,False,32.2,6376,2198,8574,3768,2872,windows
+101063,Iron Reckoning,2017-05-19,Focus Entertainment,Ubisoft,Adventure,False,18.67,2403,1419,3822,638,450,windows;mac;linux
+101064,Eternal Descent 1,2019-08-16,505 Games,Team17,RPG,False,36.42,273,27,300,2985,1689,windows;mac;linux
+101065,Neon Requiem,2017-07-21,,Annapurna Interactive,Indie,True,3.78,130,829,959,102,74,windows
+101066,Iron Horizon,2022-06-09,Focus Entertainment,Paradox Interactive,Strategy,False,37.92,2269,800,3069,4690,2748,windows;linux
+101067,Broken Reckoning,2016-06-25,Frozen Chronicles Studio,Annapurna Interactive,RPG,True,14.11,20,7,27,3236,1980,windows
+101068,Crimson Descent,2020-03-27,Dark Citadel Studio,Private Division,Action,True,12.06,2834,630,3464,1334,804,windows;linux
+101069,Broken Reckoning,2019-02-22,Indie Collective,Paradox Interactive,Adventure,False,10.82,1492,345,1837,374,210,windows
+101070,Lost Odyssey,2019-09-13,Broken Frontier 7 Studio,Raw Fury,Indie,True,3.76,82,18,100,563,215,windows;linux
+101071,Lost Colony,2009-05-22,505 Games,Valve,Action,False,19.88,11808,6106,17914,1000,531,windows
+101072,Broken Frontier,2008-03-10,Valve,Valve,RPG,False,40.26,8901,732,9633,5493,2346,windows;mac
+101073,Broken Colony,2012-04-08,Devolver Digital,Valve,Simulation,False,24.6,721,296,1017,3596,1665,windows
+101074,Eternal Chronicles,2012-07-08,Focus Entertainment,Annapurna Interactive,Adventure,False,14.36,3313,2189,5502,1423,788,windows
+101075,Dark Reckoning,2018-03-15,Square Enix,Raw Fury,Action,False,17.62,387,243,630,1097,849,windows
+101076,Shadow Requiem,2023-05-20,Rogue Reckoning Studio,Team17,Action,True,9.93,4642,920,5562,1665,951,windows
+101077,Golden Legacy,2022-08-11,Silent Horizon Studio,Valve,Indie,True,3.72,205,16,221,820,639,windows;mac;linux
+101078,Iron Frontier,2021-01-05,Iron Requiem Studio,Valve,Strategy,True,13.43,286,42,328,3520,1953,windows;linux
+101079,Golden Descent,2023-12-08,Team17,Devolver Digital,Casual,False,8.57,5652,2167,7819,442,181,windows;mac
+101080,Frozen Wanderer,2022-05-04,Dark Chronicles Studio,Solo Studio,Action,True,7.44,303,122,425,1065,546,windows
+101081,Void Citadel,2025-01-05,Neon Reckoning Studio,Annapurna Interactive,Indie,True,4.85,411,82,493,1137,750,windows
+101082,Rogue Protocol,2013-12-09,Focus Entertainment,Solo Studio,Action,False,22.2,9052,2494,11546,1278,644,windows;linux
+101083,Broken Frontier,2022-10-13,EA,Solo Studio,Adventure,False,22.59,31125,7452,38577,716,503,windows
+101084,Neon Legacy,2023-02-14,Rogue Legacy Studio,Indie Collective,Action,True,7.82,313,95,408,2902,1099,windows
+101085,Golden Frontier,2023-08-21,Devolver Digital,Raw Fury,RPG,False,44.31,989,140,1129,4799,3473,windows
+101086,Crimson Kingdom,2015-05-16,Broken Odyssey Studio,Annapurna Interactive,Casual,True,2.71,334,111,445,448,264,windows;mac
+101087,Rusty Kingdom,2018-12-22,Eternal Citadel Studio,Solo Studio,Action,True,10.13,845,185,1030,3065,1885,windows
+101088,Dark Protocol,2023-11-04,Devolver Digital,Indie Collective,Adventure,False,28.14,1336,900,2236,1289,879,windows;linux
+101089,Rogue Legacy,2018-04-10,Shadow Descent Studio,Focus Entertainment,Indie,True,4.63,71,38,109,583,450,windows
+101090,Dark Chronicles,2021-04-05,Frozen Reckoning Studio,Private Division,Racing,True,7.75,705,396,1101,675,405,windows;mac;linux
+101091,Silent Uprising,2017-03-14,Iron Descent Studio,Devolver Digital,Strategy,True,13.14,557,287,844,3647,1987,windows
+101092,Rogue Horizon,2018-05-19,EA,Square Enix,Action,False,24.76,4524,172,4696,1437,1102,windows
+101093,Rogue Descent,2017-01-21,Neon Uprising Studio,Annapurna Interactive,Adventure,True,7.38,83,33,116,1283,645,windows
+101094,Rogue Reckoning,2015-02-11,Focus Entertainment,Valve,Simulation,False,33.18,2081,190,2271,4257,3079,windows
+101095,Silent Sanctuary,2015-01-08,Frozen Frontier Studio,Indie Collective,Adventure,True,5.81,16,21,37,1024,404,windows
+101096,Rogue Sanctuary,2018-01-25,,505 Games,Adventure,True,8.87,53,21,74,1701,1335,windows;linux
+101097,Dark Chronicles,2020-06-21,EA,Private Division,Adventure,False,13.48,2838,945,3783,1866,1206,windows
+101098,Rusty Frontier,2023-10-15,Team17,Annapurna Interactive,Simulation,False,18.87,429,176,605,1061,324,windows;linux
+101099,Rogue Horizon,2013-08-25,Valve,Focus Entertainment,Adventure,False,14.36,694,138,832,631,480,windows;mac;linux
+101100,Void Horizon,2010-08-04,Ubisoft,EA,Sports,False,57.18,2200,207,2407,1730,1186,windows
+101101,Dark Descent,2019-11-06,Square Enix,Raw Fury,RPG,False,22.13,20,9,29,4070,2856,windows
+101102,Neon Legacy,2023-06-16,Square Enix,Team17,Sports,False,28.71,7873,842,8715,1509,570,windows;mac
+101103,Eternal Kingdom,2011-07-22,Golden Protocol Studio,Valve,Adventure,True,8.15,7,114,121,878,290,windows
+101104,Eternal Reckoning,2020-07-16,Rusty Chronicles Studio,EA,RPG,True,15.17,417,1724,2141,1106,411,windows;mac;linux
+101105,Broken Reckoning,2022-04-25,Neon Citadel Studio,Ubisoft,Indie,True,4.57,151,47,198,952,730,windows
+101106,Shadow Protocol,2022-12-10,Paradox Interactive,Focus Entertainment,Action,False,33.9,3341,699,4040,2397,1307,windows;linux
+101107,Iron Horizon,2014-10-24,Square Enix,Square Enix,Sports,False,53.45,178,1275,1453,787,256,windows
+101108,Golden Odyssey 3,2023-08-26,Silent Legacy Studio,Paradox Interactive,Indie,True,5.1,31,26,57,813,343,windows
+101109,Ashen Sanctuary,2019-09-15,Focus Entertainment,Annapurna Interactive,Adventure,False,18.57,7943,2535,10478,752,267,windows;mac
+101110,Neon Citadel 5,2016-08-17,Silent Odyssey Studio,Team17,Strategy,True,11.96,197,25,222,3230,1514,windows
+101111,Rusty Wanderer,2019-01-15,Iron Frontier 6 Studio,Private Division,Indie,True,5.87,105,23,128,1275,457,windows
+101112,Silent Sanctuary 7,2018-05-03,Focus Entertainment,Team17,Adventure,False,15.2,232,341,573,455,280,windows
+101113,Golden Uprising,2020-12-01,Rusty Citadel Studio,EA,Indie,True,3.68,147,205,352,438,302,windows
+101114,Broken Reckoning,2024-11-12,Annapurna Interactive,EA,RPG,False,24.7,144,34,178,2215,1018,windows
+101115,Silent Citadel,2023-12-19,Ubisoft,Devolver Digital,Sports,False,30.84,759,107,866,2032,1026,windows;mac
+101116,Rusty Descent,2025-09-23,Ubisoft,Valve,Adventure,False,16.31,30768,14180,44948,769,481,windows;mac;linux
+101117,Neon Colony,2024-05-20,Golden Citadel Studio,EA,RPG,True,15.04,65,18,83,4443,3106,windows
+101118,Golden Protocol,2024-04-25,Broken Descent Studio,Square Enix,Indie,True,5.17,790,62,852,1235,551,windows
+101119,Dark Requiem,2014-06-01,Silent Chronicles Studio,505 Games,Action,True,8.9,250,104,354,1204,370,windows;mac;linux
+101120,Silent Colony,2008-04-28,Iron Colony Studio,505 Games,Indie,True,3.85,1640,455,2095,668,414,windows;linux
+101121,Frozen Requiem 2,2023-08-04,Crimson Uprising Studio,Solo Studio,Action,True,8.06,419,22,441,2651,1170,windows;mac
+101122,Void Frontier,2021-03-10,Lost Frontier 3 Studio,Valve,Action,True,7.55,585,111,696,1961,992,windows
+101123,Golden Protocol,2023-11-05,Golden Frontier 4 Studio,EA,Simulation,True,8.04,220,33,253,2659,1033,windows;mac;linux
+101124,Rogue Chronicles,2022-05-15,,Solo Studio,RPG,False,24.38,1774,151,1925,3606,1678,windows;mac
+101125,Rogue Wanderer,2024-04-18,Focus Entertainment,505 Games,RPG,False,19.66,140,62,202,2141,918,windows
+101126,Shadow Chronicles,2016-02-25,Rusty Uprising Studio,Indie Collective,Indie,True,4.53,358,107,465,884,424,windows
+101127,Rusty Protocol,2017-11-02,Rusty Requiem 1 Studio,Devolver Digital,Strategy,True,13.75,402,194,596,2388,1659,windows;linux
+101128,Iron Frontier,2020-08-13,Valve,Private Division,Sports,False,49.39,1202,1846,3048,5,3,windows
+101129,Golden Frontier,2019-05-10,Devolver Digital,Annapurna Interactive,Adventure,False,14.16,6223,410,6633,1512,1149,windows;mac
+101130,Iron Requiem,2024-02-22,,EA,Indie,True,5.51,329,66,395,652,420,windows;mac
+101131,Rusty Legacy,2017-11-27,EA,Focus Entertainment,Action,False,28.64,2821,1448,4269,723,232,windows;mac
+101132,Lost Frontier,2021-10-05,Neon Odyssey Studio,EA,Indie,True,5.71,83,30,113,711,438,windows;mac;linux
+101133,Dark Reckoning,2023-01-25,Paradox Interactive,Solo Studio,Adventure,False,18.29,51445,21971,73416,935,647,windows;mac;linux
+101134,Rusty Horizon,2024-11-14,505 Games,Square Enix,Simulation,False,19.83,1173,526,1699,2861,2065,windows
+101135,Crimson Kingdom 2,2018-05-01,Devolver Digital,Raw Fury,Action,False,19.19,1242,35,1277,2059,1511,windows;mac;linux
+101136,Void Protocol,2017-10-20,Team17,Annapurna Interactive,Action,False,22.66,2493,577,3070,1717,1066,windows;mac
+101137,Void Odyssey,2022-10-01,Private Division,Focus Entertainment,RPG,False,38.29,420,399,819,1147,564,windows
+101138,Neon Frontier,2019-10-21,505 Games,505 Games,Strategy,False,24.03,6079,4398,10477,2442,944,windows;mac
+101139,Dark Horizon 6,2023-04-22,Broken Requiem Studio,Team17,Action,True,7.09,648,174,822,1428,860,windows;mac
+101140,Frozen Protocol,2021-01-15,Indie Collective,Indie Collective,Casual,False,7.24,3823,917,4740,430,156,windows
+101141,Broken Sanctuary,2019-06-19,Private Division,Annapurna Interactive,Sports,False,40.15,13300,3602,16902,938,725,windows
+101142,Frozen Colony,2013-03-14,Paradox Interactive,EA,Adventure,False,14.98,2090,314,2404,1153,584,windows
+101143,Golden Protocol 3,2021-07-06,Private Division,Devolver Digital,Casual,False,10.26,19328,6968,26296,458,138,windows
+101144,Void Colony,2019-05-06,Eternal Protocol Studio,Annapurna Interactive,Indie,True,5.07,653,28,681,980,694,windows
+101145,Rogue Frontier,2017-04-07,Annapurna Interactive,Ubisoft,Free to Play,False,0.0,968,635,1603,2543,1193,windows;mac;linux
+101146,Neon Uprising,2024-09-20,Indie Collective,Ubisoft,Simulation,False,0.0,3542,347,3889,3403,1497,windows
+101147,Rogue Colony,2020-07-04,Solo Studio,Focus Entertainment,Strategy,False,35.66,799,664,1463,2342,1571,windows
+101148,Ashen Odyssey,2016-01-04,,Indie Collective,Casual,True,4.0,222,217,439,251,85,windows;mac
+101149,Iron Protocol 2,2015-06-03,Square Enix,Solo Studio,Adventure,False,24.0,1300,588,1888,1313,652,windows;mac
+101150,Lost Requiem,2020-02-26,Rogue Reckoning Studio,Square Enix,Action,True,11.58,1358,38,1396,1717,794,windows;mac
+101151,Rogue Kingdom,2024-06-23,Annapurna Interactive,Raw Fury,Adventure,False,17.07,2619,468,3087,1164,357,windows
+101152,Iron Kingdom,2008-09-07,Devolver Digital,Square Enix,Action,False,16.62,3755,69,3824,1992,705,windows
+101153,Crimson Sanctuary,2016-10-20,Lost Frontier Studio,Indie Collective,Strategy,True,10.46,1457,843,2300,3017,1916,windows;linux
+101154,Rogue Protocol,2018-03-19,505 Games,Raw Fury,Adventure,False,23.27,2516,305,2821,658,214,windows;linux
+101155,Eternal Horizon,2017-04-19,Frozen Sanctuary Studio,Solo Studio,Action,True,11.04,1726,1159,2885,1312,623,windows
+101156,Shadow Requiem,2024-05-06,Paradox Interactive,Raw Fury,Simulation,False,20.44,1435,645,2080,3303,1901,windows;mac;linux
+101157,Frozen Uprising,2019-01-13,Lost Sanctuary Studio,Devolver Digital,Action,True,12.7,204,162,366,832,490,windows;mac
+101158,Eternal Reckoning,2014-05-14,Crimson Kingdom Studio,Focus Entertainment,Indie,True,3.91,235,32,267,1164,571,windows
+101159,Void Chronicles,2013-11-05,Private Division,Raw Fury,Action,False,25.86,9469,1608,11077,2052,668,windows;mac
+101160,Dark Sanctuary,2012-07-26,Void Chronicles Studio,Annapurna Interactive,Indie,True,3.63,27,7,34,767,451,windows;mac;linux
+101161,Eternal Uprising,2016-11-18,505 Games,Square Enix,Adventure,False,23.38,173,91,264,784,242,windows
+101162,Silent Frontier,2016-11-12,Private Division,Devolver Digital,Action,False,13.8,49855,17747,67602,2115,1053,windows
+101163,Neon Protocol 2,2008-04-20,Indie Collective,Private Division,Action,False,27.51,69615,2760,72375,2473,1192,windows;linux
+101164,Frozen Odyssey,2020-06-05,505 Games,Solo Studio,Simulation,False,27.32,1064,210,1274,2307,1552,windows
+101165,Dark Wanderer,2013-12-18,Eternal Odyssey Studio,Square Enix,Action,True,10.82,90,18,108,2366,1782,windows
+101166,Eternal Colony,2021-05-18,Team17,Indie Collective,Simulation,False,17.92,19524,11882,31406,2214,709,windows;mac;linux
+101167,Ashen Citadel,2025-03-24,Lost Citadel Studio,505 Games,Indie,True,6.37,120,6,126,937,715,windows
+101168,Iron Descent,2024-12-24,Paradox Interactive,Annapurna Interactive,Action,False,23.49,1551,585,2136,1558,537,windows
+101169,Eternal Sanctuary,2024-05-16,Frozen Horizon Studio,505 Games,Strategy,True,8.9,281,123,404,1629,685,windows
+101170,Neon Colony,2018-10-04,Private Division,Square Enix,Strategy,False,17.7,149,59,208,2951,1855,windows
+101171,Void Citadel,2009-07-14,EA,505 Games,Casual,False,6.54,1278,151,1429,372,111,windows
+101172,Golden Uprising,2010-07-11,Focus Entertainment,Indie Collective,Adventure,False,27.92,10728,879,11607,1212,836,windows;linux
+101173,Golden Wanderer,2018-06-03,Dark Uprising Studio,Square Enix,Indie,True,4.43,107,120,227,988,584,windows;linux
+101174,Crimson Descent,2019-05-24,Ubisoft,505 Games,RPG,False,34.23,9936,4578,14514,4356,3309,windows
+101175,Silent Uprising,2010-09-03,Shadow Citadel Studio,Team17,Indie,True,5.66,423,134,557,878,667,windows;mac;linux
+101176,Ashen Colony 1,2022-04-07,Team17,Focus Entertainment,Action,False,36.92,1393,457,1850,1066,595,windows
+101177,Crimson Chronicles,2020-01-06,Team17,Valve,Casual,False,12.06,2538,1081,3619,229,73,windows
+101178,Ashen Colony,2013-01-10,Valve,Focus Entertainment,RPG,False,24.96,2221,2408,4629,2735,1878,windows;mac
+101179,Rusty Protocol,2021-01-24,Devolver Digital,Indie Collective,Action,False,21.92,9328,3526,12854,1595,790,windows
+101180,Broken Colony 5,2020-02-10,Private Division,Raw Fury,Action,False,27.52,133,92,225,801,245,windows
+101181,Ashen Colony,2014-01-06,Shadow Protocol Studio,Raw Fury,Indie,True,3.53,511,174,685,659,456,windows;mac;linux
+101182,Ashen Frontier,2020-04-13,Ashen Frontier Studio,Valve,Casual,True,3.37,823,424,1247,424,192,windows
+101183,Silent Citadel,2015-10-22,Square Enix,Private Division,Adventure,False,11.85,7885,2639,10524,1183,910,windows
+101184,Shadow Protocol,2020-09-28,Private Division,Focus Entertainment,RPG,False,34.22,1159,171,1330,4367,2785,windows;linux
+101185,Eternal Citadel,2023-08-03,Devolver Digital,Valve,Action,False,31.63,1208,487,1695,1466,1159,windows
+101186,Broken Requiem,2022-05-02,Raw Fury,Team17,Adventure,False,16.41,1683,377,2060,701,554,windows;mac
+101187,Rusty Citadel,2021-03-07,Devolver Digital,Square Enix,Adventure,False,21.0,13806,4693,18499,800,592,windows
+101188,Ashen Citadel,2021-06-04,Void Frontier Studio,Focus Entertainment,Indie,True,6.18,533,50,583,622,321,windows
+101189,Rogue Reckoning,2020-05-01,Indie Collective,Solo Studio,Simulation,False,32.43,83,2647,2730,2496,1396,windows
+101190,Dark Protocol,2024-08-13,Valve,Square Enix,RPG,False,43.94,3206,270,3476,4548,3187,windows;mac
+101191,Golden Requiem,2024-02-18,Dark Requiem Studio,Focus Entertainment,RPG,True,11.91,3625,311,3936,4548,3226,windows
+101192,Shadow Citadel,2023-01-02,Silent Requiem Studio,Devolver Digital,Action,True,11.02,100,25,125,1809,771,windows;mac
+101193,Eternal Protocol,2021-03-04,Eternal Descent Studio,Focus Entertainment,Indie,True,3.59,199,36,235,1154,890,windows;mac
+101194,Eternal Sanctuary,2023-02-12,Lost Protocol Studio,Square Enix,Indie,True,4.16,9445,702,10147,1303,873,windows
+101195,Shadow Descent,2015-05-05,Silent Colony Studio,Solo Studio,Action,True,11.3,1426,518,1944,2563,811,windows
+101196,Broken Descent,2008-05-20,Neon Citadel Studio,505 Games,Racing,True,12.16,248,99,347,1527,1202,windows
+101197,Broken Descent,2016-07-22,Private Division,Focus Entertainment,Strategy,False,41.04,27697,9375,37072,3885,1195,windows
+101198,Iron Legacy,2021-07-12,Crimson Descent Studio,Team17,Racing,True,11.4,5616,3827,9443,1597,733,windows
+101199,Lost Sanctuary,2023-10-20,Frozen Horizon Studio,Focus Entertainment,Indie,True,5.79,213,133,346,686,374,windows
+100636,Golden Reckoning,2025-08-10,Annapurna Interactive,505 Games,RPG,False,24.43,1129,229,1358,5209,2876,windows;mac
+100683,Rogue Legacy,2023-04-15,Silent Colony Studio,Team17,Indie,True,4.1,9237,1621,10858,788,324,windows;mac
+101033,Shadow Chronicles,2011-10-21,Indie Collective,Annapurna Interactive,Simulation,False,30.95,3743,235,3978,3250,2405,windows
+100190,Rogue Horizon,2017-11-25,Iron Kingdom Studio,Raw Fury,Adventure,True,6.64,194,62,256,1135,498,windows;linux
+101083,Broken Frontier,2022-10-13,EA,Solo Studio,Adventure,False,22.59,31125,7452,38577,716,503,windows
+100283,Void Chronicles,2023-09-22,505 Games,Indie Collective,Action,False,25.84,2889,236,3125,2589,1329,windows;mac
+100817,Crimson Citadel,2024-11-21,Eternal Odyssey 6 Studio,Team17,Indie,True,5.55,483,2384,2867,241,93,windows;linux
+100314,Rogue Citadel,2011-02-12,Broken Reckoning Studio,Valve,Action,True,11.72,436,98,534,1624,722,windows
