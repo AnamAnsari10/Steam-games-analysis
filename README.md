@@ -34,7 +34,7 @@ jupyter notebook steam_games_eda.ipynb
 ```
 Then **Run All**.
 
-## What the notebook covers
+## What the notebook covers:
 1. Setup & data loading
 2. Data overview & cleaning (missing values, duplicates)
 3. Univariate analysis — price, genre, review score, playtime distributions
